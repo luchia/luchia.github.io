@@ -1,0 +1,13 @@
+name: "hello at luchia"
+description: ""
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+
+sass:
+  sass_dir: css
+  style: compressed

@@ -1,0 +1,76 @@
+---
+---
+
+@import 'reset';
+@import url(http://fonts.googleapis.com/css?family=Merriweather:700italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+
+html, body {
+	height: 100%;
+}
+body {
+	background-color: #999999;
+}
+#container {
+	width: 75%;
+	height: 100%;
+	margin: 0 auto;
+	margin-top: 50px;
+	background-color: #fafafa;
+}
+nav {
+	width: 100%;
+	text-align: center;
+	height: 150px;
+	ul {
+		text-align: center;
+		list-style-type: none;
+		li {
+			padding: 20px 20px 0 0;
+			display: inline-block;
+			&:last-child {
+				padding-right: 0;
+			}
+		}
+	}
+}
+section#post {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+#feature-image {
+	order: 1;
+}
+#post-content {
+	order: 2;
+}
+#pagination {
+	ul {
+		list-style-type: none;
+		text-align: center;
+		li {
+			display: inline-block;
+		}
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Merriweather', serif;
+	font-size: 24px;
+	font-style: italic;
+}
+a,p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+}
+
+@media only screen and (min-width : 768px) {
+	section#post {
+		flex-direction: row;
+		flex-wrap: nowrap;
+	}
+	#feature-image, #post-content {
+		flex: 1;
+	}
+}
