@@ -1,7 +1,7 @@
 /*! Typebase.less v0.1.0 | MIT License */
 
 // Typesetting variables. Edit these!
-$baseFontSize: 22;
+$baseFontSize: 20;
 $baseLineHeight: 1.5;
 $leading: $baseLineHeight * 1rem;
 
@@ -83,6 +83,9 @@ h5 {
 
 h6 {
   font-size: $scale / 4 * 1rem;
+}
+p, li {
+  font-size: $scale / 2 * 1rem;
 }
 
 /* Tables */
