@@ -13,23 +13,29 @@ html, body {
 body {
     background-color: #fafafa;
 }
-#container {
+.container {
     width: 100%;
     min-height: 100%;
     margin: 0 auto;
+    margin-top: 110px;
     padding-bottom: 50px;
-    background-color: #fafafa;
+    background-color: #fff;
 }
 nav {
-    width: 100%;
     text-align: center;
-    height: auto;
     border-bottom: 1px solid #afafaf;
     text-transform: lowercase;
+    #site-title, #links {
+        width: 100%;
+    }
+    p, h1 {
+        margin: 0;
+        line-height: 1.25em;
+    }
     ul {
         text-align: center;
         list-style-type: none;
-        margin-top: 0px;
+        margin: 10px 0 10px 0;
         li {
             padding: 0 20px 0 0;
             display: inline-block;
@@ -40,7 +46,7 @@ nav {
         }
     }
 }
-#post, #resume {
+nav, #post, #resume {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -53,7 +59,7 @@ nav {
     }
 }
 #post-content, #resume {
-    padding: 10px;
+    padding: 0 40px;
     h2 {
         color: #2D84E8;
     }
@@ -156,13 +162,16 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Merriweather', serif;
     font-style: italic;
 }
-a, p, li {
+h1, h2, h3, h4, h5, h6, a, p, li {
     color: #444444;
+}
+a, p, li {
     font-family: 'Open Sans', sans-serif;
 }
 a {
     color: #2D84E8;
     text-decoration: none;
+    transition: 0.3s;
     &:hover {
         color: #2367B5;
     }
@@ -171,8 +180,31 @@ a {
     }
 }
 // MEDIA QUERIES //
+
+@media only screen and (min-width : 500px) {
+    nav {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+    #site-title {
+        width: 30%;
+        text-align: left;
+        margin: 10px 0 20px 0;
+    }
+    #site-title, #links {
+        padding: 0 20px;
+    }
+    #links {
+        width: 70%;
+        ul {
+            margin-top: 40px;
+            text-align: right;
+        }
+    }
+}
+
 @media only screen and (min-width : 1014px) {
-    #container {
+    .container {
         width: 70%;
         margin-top: 50px;
         margin-bottom: 50px;
