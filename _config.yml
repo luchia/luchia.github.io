@@ -1,5 +1,5 @@
 name: "Luchia Bloomfield"
-description: ""
+description: "UI/UX designer based out of my backpack. Currently living in Australia while working for a number of different companies, including Security Innovation."
 
 url: "http://localhost:4000"
 
@@ -7,6 +7,10 @@ paginate: 10
 
 markdown: rdiscount
 permalink: pretty
+
+collections:
+  blog:
+    output: true
 
 sass:
   sass_dir: css

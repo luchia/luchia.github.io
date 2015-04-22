@@ -2,8 +2,8 @@
 ---
 
 @import 'reset';
-@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
-@import url(http://fonts.googleapis.com/css?family=Cantarell);
+@import url(http://fonts.googleapis.com/css?family=Hind);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 // STRUCTURE //
 html, body {
@@ -21,6 +21,7 @@ body {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
+    align-items: stretch;
 }
 nav {
     display: -webkit-box;
@@ -97,6 +98,9 @@ section {
             }
         }
     }
+    &#blog {
+        margin: 20px;
+    }
 }
 article {
     margin: 50px 0;
@@ -118,24 +122,24 @@ h4 {
 h5 {
     font-size: 0.75em;
 }
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fjalla One', sans-serif;
+h1, h2, h3, h4, h5, h6, nav {
+    font-family: 'Hind', sans-serif;
     letter-spacing: 1px;
 }
 h1, h2, h3, h4, h5, h6, a, p, li {
     color: #444444;
 }
 a, p, li {
-    font-family: 'Cantarell', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 a {
     text-decoration: none;
     transition: 0.3s;
-    &:hover {
-        
-    }
-    &.category {
-        text-transform: lowercase;
+    h1.post-title {
+        color: #169e9a;
+        &:hover {
+            color: #18a9a5;
+        }
     }
 }
 p {
@@ -174,15 +178,28 @@ ul {
     text-transform: uppercase;
     font-weight: 600;
     line-height: 1.5em;
+    padding: 0 0 10px 0;
+    border-bottom: 1px solid #dbdbdb;
 }
 .company, .skill {
     font-size: 1.5em;
     margin-top: 20px;
-    padding: 0 0 20px 0;
-    border-bottom: 1px solid #dbdbdb;
 }
 .position, .time-spent {
     font-size: 0.95em;
+}
+.post-title {
+    border-bottom: 1px solid #dbdbdb;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    color: #169e9a;
+}
+.post-date {
+    font-size: 0.95em;
+    border-top: 1px solid #dbdbdb;
+    padding-top: 10px;
+    margin-top: 20px;
 }
 // MEDIA QUERIES //
 
@@ -198,25 +215,59 @@ ul {
         -ms-flex-direction: row;
         flex-direction: row;
         flex-wrap: wrap;
-        height: 100% !important;
-        border-right: 1px solid #b5b9a8;
-        position: relative;
+        align-items: stretch;
+        height: 100%;
+        border-right: 1px solid #dbdbdb;
         #luchia-brand {
             flex: 100%;
             padding-top: 100%;
         }
         #links {
+            align-items: stretch;
+            align-self: flex-end;
             ul {
                 padding: 0;
                 li {
                     display: block;
                     padding: 20px 20px 20px 0;
                     text-align: center;
+                    transition: 0.3s;
+                    &:nth-child(1) {
+                        background: #169e9a;
+                        &:hover {
+                            background: #18a9a5;
+                        }
+                    }
+                    &:nth-child(2) {
+                        background: #0e8581;
+                        transition: fade 0.3s;
+                        &:hover {
+                            background: #109591;
+                        }
+                    }
+                    &:nth-child(3) {
+                        background: #0b5d51;
+                        &:hover {
+                            background: #0a6f5c;
+                        }
+                    }
+                    a {
+                        color: white;
+                    }
+                    &:hover {
+                        transition: 0.3s;
+                    }
                 }
             }
         }
     }
     #content {
         flex: 75%;
+    }
+    section {
+        &#resume, &#blog {
+            padding: 0 40px;
+            width: 75%;
+        }
     }
 }
