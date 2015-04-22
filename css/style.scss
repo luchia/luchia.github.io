@@ -2,140 +2,104 @@
 ---
 
 @import 'reset';
-@import 'typography';
-@import url(http://fonts.googleapis.com/css?family=Merriweather:700italic);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+@import url(http://fonts.googleapis.com/css?family=Cantarell);
 
 // STRUCTURE //
 html, body {
     height: 100%;
+    width: 100%;
 }
 body {
-    background-color: #fafafa;
-}
-.container {
-    width: 100%;
-    min-height: 100%;
-    margin: 0 auto;
-    padding-bottom: 50px;
-    background-color: #fff;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    background-color: #e5e0dd;
+    overflow-y: auto;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
 }
 nav {
-    text-align: center;
-    border-bottom: 1px solid #afafaf;
-    text-transform: lowercase;
-    #site-title, #links {
-        width: 100%;
-    }
-    ul {
-        text-align: center;
-        list-style-type: none;
-        margin: 10px 0 10px 0;
-        li {
-            padding: 0 20px 0 0;
-            display: inline-block;
-            &:last-child {
-                padding-right: 0;
-            }
-
-        }
-    }
-}
-nav, #post, #resume {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    height: auto;
-}
-#feature-image {
-    order: 1;
-    img {
-        width: 100%;
-    }
-}
-#post-content, #resume {
-    padding: 0 40px;
-    h3 {
-        margin-top: 50px;
-        color: #2D84E8;
-    }
-    h4 {
-        border-bottom: 1px solid #afafaf;
-    }
-    p {
-        margin-top: 7px;
-    }
-}
-#left-column {
-    order: 1;
-}
-#right-column {
-    order: 2;
-}
-#entire-post {
-    width: 95%;
-    margin: 0 auto;
-    img {
-        width: 100%;
-    }
-}
-#gallery {
-    margin: 20px 0 0 0;
-    padding: .5vw;
-    font-size: 0;
-    display: -ms-flexbox;
-    -ms-flex-wrap: wrap;
-    -ms-flex-direction: column;
-    -webkit-flex-flow: row wrap;
-    flex-flow: row wrap;
     display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
-    div {
-        -webkitbox-flex: auto;
-        -ms-flex: auto;
-        flex: auto;
-        width: 200px;
-        margin: .5vw;
-        img {
-            width: 100%;
-            height: auto;
-        }
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    background: white;
+    height: 13%;
+    #luchia-brand {
+        background: url(../images/luchia-brand.jpg) no-repeat;
+        background-size: 100%;
+        height: 0;
+        width: 25%;
+        padding-top: 25%;
+        -webkit-flex: 1;
+        -ms-flex: 1;
+        flex: 25%;
     }
-}
-#category-list {
-    width: 95%;
-    h4 {
-        margin: 0;
-        padding-bottom: 7px;
-        border-bottom: 1px solid #afafaf;
-        text-transform: capitalize;
-    }
-    p, ul {
-        margin-top: 7px;
-    }
-}
-#meta-data {
-    font-size: 0.65em;
-    ul {
-        list-style-type: none;
-        li {
-            display: inline-block;
-            padding-right: 30px;
-            &:last {
-                padding-right: 0;
+    #links {
+        -webkit-flex: 1;
+        -ms-flex: 1;
+        flex: 75%;
+        width: 75%;
+        ul {
+            padding: 25px 0 0 0;
+            text-align: right;
+            li {
+                display: inline-block;
+                padding: 0 20px 0 0
             }
         }
     }
 }
-#pagination {
-    margin-top: 20px;
-    ul {
-        list-style-type: none;
-        text-align: center;
-        li {
+#content {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    overflow-y: auto;
+    background: white;
+}
+section {
+    max-width: 100%;
+    padding: 10px;
+    &#resume {
+        margin: 20px;
+        ul.minor-info li {
             display: inline-block;
+            width: 49%;
+            margin: 20px 0 20px 0;
+            &:last-child {
+                text-align: right;
+            }
+        }
+        ul.skill-set {
+            margin: 20px 0;
+            li {
+                display: inline-block;
+                padding: 10px 20px;
+                margin: 5px 5px;
+                border-radius: 20px;
+                font-size: 0.85em;
+            }
         }
     }
+}
+article {
+    margin: 50px 0;
 }
 // TYPOGRAPHY //
 h1 {
@@ -155,21 +119,20 @@ h5 {
     font-size: 0.75em;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Merriweather', serif;
-    font-style: italic;
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 1px;
 }
 h1, h2, h3, h4, h5, h6, a, p, li {
     color: #444444;
 }
 a, p, li {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cantarell', sans-serif;
 }
 a {
-    color: #2D84E8;
     text-decoration: none;
     transition: 0.3s;
     &:hover {
-        color: #2367B5;
+        
     }
     &.category {
         text-transform: lowercase;
@@ -177,56 +140,83 @@ a {
 }
 p {
     font-size: 0.85em;
+    line-height: 1.5em;
+}
+ul {
+    &.dark-blue {
+        li {
+            background: #169e9a;
+            color: white;
+        }
+    }
+    &.light-blue {
+        li {
+            background: #0e8581;
+            color: white;
+        }
+    }
+    &.orange {
+        li {
+            background: #0b5d51;
+            color: white;
+        }
+    }
+    &.yellow {
+        li {
+            background: #5d4f42;
+            color: white;
+        }
+    }
+}
+.label {
+    color: #aaaaaa;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: 1.5em;
+}
+.company, .skill {
+    font-size: 1.5em;
+    margin-top: 20px;
+    padding: 0 0 20px 0;
+    border-bottom: 1px solid #dbdbdb;
+}
+.position, .time-spent {
+    font-size: 0.95em;
 }
 // MEDIA QUERIES //
 
-@media only screen and (min-width : 500px) {
-    nav {
+@media only screen and (min-width : 700px) {
+    body {
+        -webkit-flex-direction: row;
+        -ms-flex-direction: row;
         flex-direction: row;
-        flex-wrap: nowrap;
     }
-    #site-title {
-        width: 30%;
-        text-align: left;
-        margin: 10px 0;
-    }
-    #site-title, #links {
-        padding: 0 40px;
-    }
-    #links {
-        width: 70%;
-        ul {
-            margin-top: 40px;
-            text-align: right;
+    nav {
+        flex: 25%;
+        -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: 100% !important;
+        border-right: 1px solid #b5b9a8;
+        position: relative;
+        #luchia-brand {
+            flex: 100%;
+            padding-top: 100%;
+        }
+        #links {
+            ul {
+                padding: 0;
+                li {
+                    display: block;
+                    padding: 20px 20px 20px 0;
+                    text-align: center;
+                }
+            }
         }
     }
-    .container {
-        height: 90%;
-        margin: auto auto;
-    }
-}
-
-@media only screen and (min-width : 1014px) {
-    .container {
-        width: 70%;
-        margin-top: 50px;
-        margin-bottom: 50px;
-    }
-    #post {
-        flex-direction: row;
-        flex-wrap: nowrap;
-    }
-    #feature-image, #post-content, #left-column, #right-column {
-        flex: 1;
-    }
-    #feature-image, #left-column {
-        padding: 0 30px 0 50px;
-    }
-    #post-content, #right-column {
-        padding: 0 50px 0 0;
-    }
-    #entire-post, #category-list {
-        width: 85%;
-        margin: 0 auto;
+    #content {
+        flex: 75%;
     }
 }
