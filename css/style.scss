@@ -147,25 +147,25 @@ p {
     line-height: 1.5em;
 }
 ul {
-    &.dark-blue {
+    &.light-blue {
         li {
             background: #169e9a;
             color: white;
         }
     }
-    &.light-blue {
+    &.medium-blue {
         li {
             background: #0e8581;
             color: white;
         }
     }
-    &.orange {
+    &.dark-blue {
         li {
             background: #0b5d51;
             color: white;
         }
     }
-    &.yellow {
+    &.grey {
         li {
             background: #5d4f42;
             color: white;
