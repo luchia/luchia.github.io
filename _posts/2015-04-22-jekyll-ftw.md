@@ -10,13 +10,6 @@ Given that I no longer want to display a portfolio and need 1) a resume and 2) a
 
 ## What is Jekyll?
 
-It’s a basic static site generator which processes a set of files and generates an output suitable for deployment. Jekyll is a Ruby gem so it’s installed through the command line.
-
-## Quick Rundown
-
-### Install
-
-
-> gem install jekyll
+It’s a basic static site generator which processes a set of files and generates an output suitable for deployment. Jekyll is a Ruby gem so it’s installed through the command line. For the most part, it's similar to writing static HTML templates which, after working in Jade and HAML for so long, wasn't particularly nice to return to. But the convenience is in my ability to maintain it through Markdown and host it via Github pages.
 
 I whipped this version up in my spare time in the last week and am looking forward to refining it over time, while enjoying the easiness of maintaining a website that compiles it’s own content and does automatic deploys for me, for once.
