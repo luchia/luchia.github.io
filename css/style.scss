@@ -37,7 +37,8 @@ nav {
     -ms-flex-direction: row;
     flex-direction: row;
     background: white;
-    height: 13%;
+    height: auto;
+    padding: 0 0 20px 0;
     background: #169e9a;
     #luchia-brand {
         -webkit-flex: 1;
@@ -110,7 +111,8 @@ section {
     }
 }
 article {
-    margin: 50px 0;
+    h1, h2, h3, h4, h5 , h6, { line-height: 3em; }
+    p { line-height: 2em; }
 }
 // TYPOGRAPHY //
 h1 {
@@ -206,7 +208,7 @@ ul {
     font-size: 0.95em;
     border-top: 1px solid #dbdbdb;
     padding-top: 10px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 // MEDIA QUERIES //
 @media only screen and (min-width : 700px) {
@@ -224,6 +226,7 @@ ul {
         align-items: stretch;
         height: 100%;
         border-right: 1px solid #dbdbdb;
+        padding: 0;
         #luchia-brand {
             padding-top: 80%;
             span.desktop {
