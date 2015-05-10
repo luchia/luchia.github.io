@@ -1,6 +1,7 @@
 ---
 title: Jekyll FTW
 layout: post
+permalink: jekyll-ftw
 ---
 
 I haven’t had a website in a long time, partly due to business and partly due to not wanting to be online as much. My previous websites were built with Rails which, while fun to learn and easy to use once created, were cumbersome, heavy and slow-loading. It was also a pain in the ass to maintain. Enter Jekyll.

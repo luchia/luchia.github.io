@@ -1,6 +1,7 @@
 ---
 title: What's it's like to work at Security Innovation
 layout: post
+permalink: working-at-security-innovation
 ---
 
 For the last three to four months, I've spoken at quite a few conferences about working remotely. In Australia, this concept hasn't really come into play that much yet and I think one of the main reasons for this is that we don't have a large start up scene here and a lot of the companies designers and developers work for are brick and mortar types (ie. very old-fashioned).
