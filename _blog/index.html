@@ -3,12 +3,14 @@ layout: default
 ---
 
 <section id="blog">
+	<h1 class="label">Musings</h1>
 	{% for post in site.posts %}
+		<br>
+		<br>
 		<article>
 			<a href="{{ post.url }}">
-				<h1 class="post-title">{{ post.title }}</h1>
+				<h4 class="post-title">{{ post.title }}</h2>
 			</a>
-			<p>{{ post.excerpt }}</p>
 		</article>
 	{% endfor %}
 </section>
