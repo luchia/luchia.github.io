@@ -1,5 +1,5 @@
 ---
-title: What's it's like to work at Security Innovation
+title: What's it's like to work at SI
 layout: post
 permalink: working-at-security-innovation
 ---

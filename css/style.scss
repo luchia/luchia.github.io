@@ -40,16 +40,22 @@ nav {
     height: auto;
     padding: 0 0 20px 0;
     background: #fafafa;
-    #luchia-brand {
+    h1 {
+        padding: 10px 0 0 20px;
         -webkit-flex: 1;
         -ms-flex: 1;
-        flex: 25%;
-        padding: 10px;
-        h1 {
-            color: white !important;
-        }
-        span.desktop {
-            display: none;
+        flex: 1;
+    }
+    ul {
+        text-align: center;
+        -webkit-flex: 1;
+        -ms-flex: 1;
+        flex: 1;
+        margin: auto;
+        margin: auto 2em auto auto;
+        li {
+            display: inline-block;
+            width: 31%;
         }
     }
     #links {
@@ -65,6 +71,13 @@ nav {
                 padding: 0 15px 0 0;
             }
         }
+    }
+    #luchia-brand {
+        -webkit-flex: 1;
+        -ms-flex: 1;
+        flex: 25%;
+        padding: 10px;
+        display: none;
     }
 }
 #content {
@@ -86,7 +99,7 @@ section {
     max-width: 100%;
     padding: 10px;
     &#resume {
-        margin: 20px;
+        margin: 0 20px;
         ul.minor-info li {
             display: inline-block;
             width: 49%;
@@ -142,7 +155,6 @@ h5 {
 }
 h1, h2, h3, h4, h5, h6, nav {
     font-family: 'Hind', sans-serif;
-    letter-spacing: 1px;
 }
 h1, h2, h3, h4, h5, h6, a, p, li {
     color: #444444;
@@ -199,6 +211,7 @@ ul {
     padding: 0 0 10px 0;
     border-bottom: 1px solid #dbdbdb;
     margin: 30px 0 0 0;
+    letter-spacing: 1px;
 }
 .company, .skill {
     font-size: 1.5em;
@@ -231,43 +244,42 @@ ul {
         flex-direction: row;
         flex-wrap: wrap;
         align-items: stretch;
-        height: 100%;
+        height: auto;
         border-right: 1px solid #dbdbdb;
         padding: 0;
-        #luchia-brand {
-            padding-top: 80%;
-            span.desktop {
+        background: white;
+        h1 {
+            flex: 100%;
+            height: auto;
+            -webkit-order: 2;
+            order: 2;
+            padding: 0.5em;
+            height: 10px;
+            align-self: flex-start;
+        }
+        ul {
+            -webkit-order: 2;
+            order: 2;
+            flex: 100%;
+            height: 200px;
+            padding: 0 2em;
+            li {
+                padding: 0.5em 0;
+                text-transform: lowercase;
                 display: block;
+                text-align: left;
             }
         }
-        #links {
-            align-items: stretch;
-            align-self: flex-end;
+        #luchia-brand {
             flex: 100%;
-            ul {
-                padding: 0;
-                margin: 0;
-                li {
-                    display: block;
-                    padding: 20px 20px 20px 0;
-                    text-align: center;
-                    transition: 0.6s;
-                    border-top: 1px solid #dbdbdb;
-                    &:hover {
-                        transition: 0.6s;
-                        background: #aaaaaa;
-                        a {
-                            color: white;
-                        }
-                    }
-                    a {
-                        color: #444444;
-                    }
-                    &:hover {
-                        transition: 0.3s;
-                    }
-                }
-            }
+            align-self: flex-start;
+            -webkit-order: 1;
+            order: 1;
+            display: block;
+            background: url('../images/luchia-brand.jpg') no-repeat;
+            background-size: cover;
+            background-position: top center;
+            height:390px
         }
     }
     #content {
