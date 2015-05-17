@@ -165,12 +165,12 @@ a, p, ul {
 a {
     text-decoration: none;
     transition: 0.3s;
-    h2.post-title {
-        color: #169e9a;
+    .post-title {
         &:hover {
             color: #0e8581;
         }
     }
+
 }
 p, ul {
     font-size: 0.85em;
@@ -217,12 +217,18 @@ ul {
     font-size: 1.5em;
     margin-top: 30px;
 }
+.post-title {
+    font-size: 1.5em;
+    outline: none;
+}
+.title {
+    padding: 0 0 10px 0;
+    border-bottom: 1px solid #dbdbdb;
+    margin: 30px 0 0 0;
+    color: #169e9a;
+}
 .position, .time-spent {
     font-size: 0.95em;
-}
-.post-title {
-    outline: none;
-    color: #169e9a;
 }
 .post-date {
     font-size: 0.95em;
