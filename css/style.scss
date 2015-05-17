@@ -135,6 +135,7 @@ article.blog {
         margin: 0 0 0 2em;
         padding: 0 0 0 1em;
     }
+    a { color: #0b5d51; }
 }
 // TYPOGRAPHY //
 h1 {
@@ -156,7 +157,7 @@ h5 {
 h1, h2, h3, h4, h5, h6, nav {
     font-family: 'Hind', sans-serif;
 }
-h1, h2, h3, h4, h5, h6, a, p, li {
+h1, h2, h3, h4, h5, h6, p, li {
     color: #444444;
 }
 a, p, ul {
