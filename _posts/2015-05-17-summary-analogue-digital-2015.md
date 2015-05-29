@@ -22,3 +22,60 @@ Matt Faulk. Matt Faulk. Matt Faulk. What can I say? Matt blew me away with his h
 And for some parting wisdom, the venue was dotted with posters that summarised the days talks -
 
 #### Give more. Take Less. Dream Big. Make an impact.
+
+***
+
+Following on from my summary of Analogue Digital Brisbane, 2015, I wanted to finish this post by summarising my thoughts on both Matt Faulks speech and workshop at this conference.
+
+Not only was Matt refreshingly upbeat, he was also open about his entire life, his process and his agency while being approachable and friendly. Where the rules are ‘success is progression’, ‘get better everyday’ and ‘no details are too small’, the agency has created some incredible work with many large companies.
+
+It was a nice surprise to find out that my own self-taught method for creation essentially follows along the same line as one of the most successful agencies in the US. Embracing the process and enjoying where that progression takes you is paramount and hearing this reiterated by a successful CEO was encouraging to say the least.
+
+Matt defines the concept of a realising an idea as Discovery, Exploration, Creation and from here, I will summarise my notes within these areas.
+
+* Data can only tell you so much. Data doesn’t tell you why. Clients won’t tell you why either, so to access this information, you need to conduct user testing.
+* Social proof works. Enough said.
+* Iterative approaches are key. There is no finished product and good ideas often come from moving away from the project.
+* Quick, dirty explorations are the best techniques for trying out ideas. It’ll be ugly - don’t worry.
+* Document everything for the sake of ease. If you want to case study at a later date, but you don’t keep any of your initial thoughts, it’ll be hard. Even keeping track of margins and paddings from the get-go is important for consistency.
+* Best practices are great, but safe.
+* Users want functionality, not aesthetics. Don’t build beautiful looking, crappy things. Take the time to focus on ease of use.
+* Art is not design. Art is like masturbation - it’s for the artist only - but design is like sex because it needs please all parties.
+
+When Matt summarised his entire talk, he gave us the following takeaways:
+
+* Wing it - “experts" don’t know what they’re doing either
+* Fail & Learn - preferably quickly
+* Collaborate - you don’t need to be the best at everything
+* Be inspired
+* Be human - you’re not designing for machines, you’re designing for people.
+* Be positive - nothing is worse than a negative-nancy.
+* Be strategic - take opportunities but be smart.
+* Do small things well.
+
+The next day was Matt’s workshop and one that I had been looking forward to for quite a few weeks. Matt didn’t need to summarise his talk which meant that we could get straight into the workshop and actually working on a project, which ended up being the redesign of the Analogue Digital website.
+
+Analogue Digital has gotten quite a lot of negative feedback about their website and for good reason - it missed the mark on the day of the conference by not providing the necessary information needed to get to the conference, at the right time for whatever you wanted to see. In terms of a conference website, it failed hard. So it was our job, to come up with ideas to revisit it.
+
+Sites need scalability, flexibility and adaptability (that’s a lot of -abailities). Designs should be made for content and context, not for the sake of design. This where A/D fell short on their website. Design for aesthetics, but not for function. It’s also one of the reasons why I think the web is currently flooded with websites that are useless and confusing but look good - there are too many people chasing this ideal, but not the idea. But I digress.
+
+The phases that Matt laid out for us were easy to understand:
+
+* Discovery
+* Strategy
+* Exploration
+* Refinement
+* Deploy
+* Evolve
+
+He recommended that from the beginning of the project, you work hands on with clients and set up workshops where brainstorming, research, mind maps, user flows, user personas, sketches and wireframes are done with the client in the same room. I know that this is a scary thought for a lot of designers, but I think it’s one that provides better collaboration. No longer do you need to express ideas via email or over the phone - you can do it in person.
+
+Matt also made it clear that objectives are essential and working closely with the client to understand the goals and requirements of the project is a must. Our client was the organiser of the conference, so we didn’t get all the much time with him, but the time we did have resulted in close to three pages of notes (for me). As is often the case, clients can go all over the place with ideas and dreams but the important thing is to narrow down what they’ve told you into useful information for the project you’re working on.
+
+Once you’ve categorised the useful information, it’s time to get to work. The first part is listing absolutely everything you could possibly think of to include in the project. Design ideas, visual concepts, page elements, visual elements, ticketing systems, calendar systems, product ideas, social media integration - literally everything you could ever imagine the website being. It’s important to have a huge idea from the start so that project restraints can then be applied and in turn, help refine and create a more sophisticated product.
+
+The next step is to sketch like crazy while playing a game of Crazy 8’s. Crazy 8’s is folding a paper in 8 and drawing 8 concepts as quickly as you can in under five minutes. This drawings are *rough* and ugly but that’s almost the point. Forget about design. Forget about beauty. How should the product work and how do users move about through it? Once the first round was completed, members of teams shared their ideas then repeated the game three times. By the end of it, ideas have solidified and it’s time to create very rough wireframes for presentations.
+
+I really enjoyed collaborating with other designers as it’s not something I often get to do and I also really enjoyed the sprint. I have the luxury of working on a software product that doesn’t really have any deadlines, so long as everyone is moving forward, so the rush and excitement of needing to have an idea somewhat polished in half an hour was really enjoyable.
+
+A huge thank you to Matt Faulk again for such an enjoyable workshop and for sharing his insight.
