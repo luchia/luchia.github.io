@@ -1,5 +1,6 @@
 ---
 title: Summary - A/D BNE 15
+category: blog
 layout: post
 permalink: analogue-digital-brisbane-2015
 ---

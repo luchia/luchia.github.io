@@ -1,5 +1,6 @@
 ---
 title: What's it's like to work at SI
+category: blog
 layout: post
 permalink: working-at-security-innovation
 ---
