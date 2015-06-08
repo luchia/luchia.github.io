@@ -1,6 +1,5 @@
 ---
 title: Jekyll FTW
-category: blog
 layout: post
 permalink: jekyll-ftw
 ---

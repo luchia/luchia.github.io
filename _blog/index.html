@@ -4,7 +4,7 @@ layout: default
 
 <section id="blog">
 	<h1 class="label">Musings</h1>
-	{% for post in site.categories['blog'] %}
+	{% for post in site.posts %}
 		<br>
 		<article>
 			<a href="{{ post.url }}">
