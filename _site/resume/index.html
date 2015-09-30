@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Resume</title>
+  <meta name="description" content="My little piece of the internet" />
+
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@luchiamae" />
+    <meta name="twitter:title" content="Resume" />
+    <meta name="twitter:image" content="http://myblog.***.***/assets/images/lucy.jpg" />
+    
+    <meta name="twitter:description" content="My little piece of the internet" />
+    
+  
+  
+  <meta property="og:site_name" content="Lucy Bloomfield" />
+  <meta property="og:title" content="Resume"/>
+  
+  <meta property="og:description" content="My little piece of the internet" />
+  
+  <meta property="og:image" content="http://myblog.***.***/assets/images/lucy.jpg" />
+  <meta property="og:url" content="http://myblog.***.***/resume/" >
+  <meta property="og:type" content="blog" />
+  
+
+  <link rel="canonical" href="http://myblog.***.***/resume/">
+
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+</head>
+
+  <body itemscope itemtype="http://schema.org/Article">
+    <!-- header start -->
+
+
+<!-- header end -->
+
+    <main class="content" role="main">
+      <article class="post">
+        
+        <div class="noarticleimage">
+          <div class="post-meta">
+            <h1 class="post-title">Resume</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url()">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        
+        <section class="post-content">
+          <a name="topofpage"></a>
+          <p>I&#39;m a UI/UX designer based in Melbourne, Australia.</p>
+
+<h2>Trefiel</h2>
+
+<h3>2015 - Current</h3>
+
+<p>A beauty product business that uses Instagram as a selling platform. Running the social media campaigns and scouting marketing opportunities. Designer of the website, packaging and brand experience.</p>
+
+<h2>Security Innovation</h2>
+
+<h3>2014 - 2015</h3>
+
+<p>Lead designer for the product team working on TEAM Mentor. Complete redesign of the application, from 90&#39;s spec to modern, usable and beautiful. Our product demos went from 60 minutes to 15 minutes (that&#39;s something I&#39;m really proud of). Worked on a variety of other projects as well, including the product design for a customer portal.</p>
+
+<h2>QA</h2>
+
+<h3>6 weeks (2014)</h3>
+
+<p>Designed, developed and wrote a Ruby on Rails course that would be suitable for beginners with no prior knowledge of Rails. Involved research, prototyping, documentation, story boards, design and development.</p>
+
+<h2>Self-Employed</h2>
+
+<h3>2 years (2010-2012)</h3>
+
+<p>Worked with a variety of clients - from small businesses successfully launching first websites to helping existing companies improve their brand. Involved client meetings, research, prototyping, user testing, design and development.</p>
+
+        </section>
+      </article>
+    </main>
+    <div class="bottom-closer">
+      <div class="background-closer-image"  style="background-image: url(/assets/images/top.jpg)">
+        Image
+      </div>
+      <div class="inner">
+        <h1 class="blog-title">Lucy Bloomfield</h1>
+        <h2 class="blog-description">My little piece of the internet</h2>
+        <a href="/" class="btn">Back to Overview</a>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
+<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
+<script>
+(function ($) {
+  "use strict";
+  $(document).ready(function(){
+
+    var $window = $(window),
+    $image = $('.post-image-image, .teaserimage-image');
+    
+      $window.on('scroll', function() {
+        var top = $window.scrollTop();
+
+        if (top < 0 || top > 1500) { return; }
+        $image
+          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+          .css('opacity', 1-Math.max(top/700, 0));
+      });
+      $window.trigger('scroll');
+
+      var height = $('.article-image').height();
+      $('.post-content').css('padding-top', height + 'px');
+
+      $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({ scrollTop: target.offset().top }, 500);
+            return false;
+          }
+        }
+      });
+
+  });
+}(jQuery));
+</script>
+
+
+  </body>
+</html>

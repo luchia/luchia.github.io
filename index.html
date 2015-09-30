@@ -2,91 +2,68 @@
 layout: default
 ---
 
-<section id="resume">
-	<h1 class="label">Experience</h1>
+<div class="teaserimage">
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
+        Teaser Image
+    </div>
+</div>
 
-	<article>
-		<ul class="minor-info">
-			<li>
-				<a href='http://www.securityinnovation.com/' target='_blank' title='Security Innovation'>
-					<h2 class="company">Security Innovation</h2>
-				</a>
-			</li>
-			<li><h3 class='time-spent'>2014 - Current</h3></li>
-		</ul>
-		<p>Lead designer for the product team, TEAM Mentor. Digital strategist and consultant. Working on a number of different projects, involving a refresh of existing products, services and brands.</p>
-	</article>
+<header class="blog-header">
+    {% if site.logo %}
+      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
+    {% endif %}
+    <h1 class="blog-title">{{ site.title }}</h1>
+    <h2 class="blog-description">{{ site.description }}</h2>
+    <div class="custom-links">
+      {% for social in site.social %}
+        {% if social.url %}
+            <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
+              <i class="fa fa-{{ social.icon }}"></i>
+            </a>
+            &nbsp;&nbsp;·&nbsp;&nbsp;
+        {% endif %}
+      {% endfor %}
+      <a href="/resume/">Resume</a>
+    </div>
+</header>
 
-	<article>
-		<ul class="minor-info">
-			<li>
-				<a href='https://www.qa.com/' target='_blank' title='QA Ltd'>
-					<h2 class="company">QA Ltd</h2>
-				</a>
-			</li>
-			<li><h3 class='time-spent'>6 weeks (2014)</h3></li>
-		</ul>
-		<p>Designed, developed and wrote a Ruby on Rails course that would be suitable for beginners with no prior knowledge of Rails. Involved research, prototyping, documentation, story boards, design and development.</p>
-	</article>
 
-	<article>
-		<ul class="minor-info">
-			<li><h2 class="company">Self-Employed</h2></li>
-			<li><h3 class='time-spent'>2 years (2010-2012)</h3></li>
-		</ul>
-		<p>Worked with a variety of clients - from small businesses successfully launching first websites, to helping existing companies improve their brand. Involved client meetings, research, prototyping, user testing, design and development.</p>
-	</article>
+<main class="content" role="main">
+    <div class="cf frame">
+      {% for post in paginator.posts %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+            </div>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
 
-	<h1 class="label">Skills</h1>
-	<article>
-		<h2 class="skill">User Experience</h2>
-		<ul class="skill-set light-blue">
-			<li>User Research</li>
-			<li>Usability Testing</li>
-			<li>User Personas</li>
-			<li>Taskflows</li>
-			<li>Storyboards</li>
-			<li>Information Architecture</li>
-			<li>Content Strategy</li>
-			<li>Wireframes</li>
-		</ul>
-	</article>
+    <nav class="pagination" role="navigation">
+      {% if paginator.next_page %}
+        <a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
+      {% endif %}
+      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+          <a class="older-posts" href="/">Newer posts &rarr;</a>
+        {% else %}
+          <a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
+        {% endif %}
+      {% endif %}
+    </nav>
 
-	<article>
-		<h2 class="skill">Design</h2>
-		<ul class="skill-set medium-blue">
-			<li>Mock Ups</li>
-			<li>User Interface Design</li>
-			<li>Visual Design</li>
-			<li>Iconography</li>
-			<li>Photoshop</li>
-			<li>Illustrator</li>
-			<li>InDesign</li>
-			<li>Sketch</li>
-			<li>Balsamiq</li>
-		</ul>
-	</article>
 
-	<article>
-		<h2 class="skill">Development</h2>
-		<ul class="skill-set dark-blue">
-			<li>Rapid Prototyping</li>
-			<li>HTML</li>
-			<li>HAML</li>
-			<li>Jade</li>
-			<li>CSS</li>
-			<li>SCSS</li>
-			<li>Ruby</li>
-			<li>Ruby on Rails</li>
-		</ul>
-	</article>
+    <!-- {{!! After all the posts, we have the previous/next pagination links }}
+    {{pagination}} -->
 
-	<article>
-		<h2 class="skill">Other</h2>
-		<ul class="skill-set grey">
-			<li>Photography</li>
-			<li>Writing</li>
-			<li>Public Speaking</li>
-		</ul>
-	</article>
-</section>
+</main>
