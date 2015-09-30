@@ -20,7 +20,7 @@ author_image: "/assets/images/lucy.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://luchia.com.au" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@luchiamae'
