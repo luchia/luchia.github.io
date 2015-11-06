@@ -18,7 +18,7 @@ name: 'Lucy Bloomfield'
 author: 'Lucy Bloomfield'
 author_image: "/assets/images/lucy.jpg"
 
-paginate:	5
+paginate:	10
 
 url: "http://luchia.com.au" # the base hostname & protocol for your site
 baseurl: ""
