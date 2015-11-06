@@ -3,11 +3,32 @@
   <channel>
     <title>Lucy Bloomfield</title>
     <description>My little piece of the internet</description>
-    <link>http://myblog.***.***/</link>
-    <atom:link href="http://myblog.***.***/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 01 Oct 2015 08:25:59 +1000</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2015 08:25:59 +1000</lastBuildDate>
+    <link>http://luchia.com.au/</link>
+    <atom:link href="http://luchia.com.au/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 06 Nov 2015 15:46:50 +1100</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2015 15:46:50 +1100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Spring Chaos</title>
+        <description>&lt;p&gt;Spring is my favourite time of the year. The sun starts to burn a little, the days warm up yet the nights are still cool. I sometimes still get a rainy day to lay in bed on the weekends (or week days), but there’s also the beautiful clear days that should only be spent racing through the mountains on a motorbike.&lt;/p&gt;
+
+&lt;p&gt;Although I’ve been writing regularly for myself, I haven’t touched this blog in months, let alone had the desire to craft a well-written post. Although there have been posts created in 2015, reading them back I realise they lack the special spark that makes this corner of the internet, mine. &lt;/p&gt;
+
+&lt;p&gt;So where did Lucy go? Simply put, I was too busy living my life to write about and document it. This year I’ve spoken at multiple conferences, I lived in the Middle East (amazing place, would go back there in a heartbeat), learnt to ride a motorbike, learnt how to pole dance, had surgery, learnt how to cook (properly) and moved to a new city. I’ve explored my identity and the ways in which I express myself, my communication channels, my relationships and my flaws. I’ve even managed, although I still struggle with it, to remove myself entirely from social media, excluding business accounts.&lt;/p&gt;
+
+&lt;p&gt;Part of my not wanting to write for this blog has been paired with my desire to remove myself from social media. I didn’t want to share my posts on platforms, receive gratification by the various notification systems or receive congratulations from friends and family. I didn’t want to feel as if this blog was for anyone else but myself, and I think given my current metrics (a big 0 visitors for the last however many months), this is now possible.&lt;/p&gt;
+
+&lt;p&gt;I’ll be writing from now on about the things which interest me because they are many and varied. I want to write more about the cities I visit while traveling and the people I meet every day. I want to write and learn through my social experiments and share my thoughts on the books I’m reading. Mostly, I want to use this as a brain dump, a collection of thoughts and feelings, as a reminder of how quickly things can change.&lt;/p&gt;
+
+&lt;p&gt;I call this spring chaos because I feel like the whole concept of ‘spring cleaning’ and the end of the year drives people to do wild things - review their life, say things that haven’t been said, finish half-completed things and make big changes. In that respect, I’m not all that unusual.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Nov 2015 00:00:00 +1100</pubDate>
+        <link>http://luchia.com.au/spring-chaos</link>
+        <guid isPermaLink="true">http://luchia.com.au/spring-chaos</guid>
+        
+        
+      </item>
     
       <item>
         <title>WordCamp Brisbane, 2015</title>
@@ -204,8 +225,8 @@
 &lt;p&gt;I believe that modern design is the clash of functionality and aesthetics. But mostly, I believe that modern design is process, not product. And by concentrating on your process, you too can create great design.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Jun 2015 00:00:00 +1000</pubDate>
-        <link>http://myblog.***.***/wordcamp-bne</link>
-        <guid isPermaLink="true">http://myblog.***.***/wordcamp-bne</guid>
+        <link>http://luchia.com.au/wordcamp-bne</link>
+        <guid isPermaLink="true">http://luchia.com.au/wordcamp-bne</guid>
         
         
       </item>
@@ -294,8 +315,8 @@
 &lt;p&gt;&lt;a href=&quot;http://bwd.luchia.com.au/website.html&quot;&gt;Responsive website&lt;/a&gt; with Flexbox.&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 May 2015 00:00:00 +1000</pubDate>
-        <link>http://myblog.***.***/flexbox-101</link>
-        <guid isPermaLink="true">http://myblog.***.***/flexbox-101</guid>
+        <link>http://luchia.com.au/flexbox-101</link>
+        <guid isPermaLink="true">http://luchia.com.au/flexbox-101</guid>
         
         
       </item>
@@ -384,8 +405,8 @@
 &lt;p&gt;A huge thank you to Matt Faulk again for such an enjoyable workshop and for sharing his insight.&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 May 2015 00:00:00 +1000</pubDate>
-        <link>http://myblog.***.***/analogue-digital-brisbane-2015</link>
-        <guid isPermaLink="true">http://myblog.***.***/analogue-digital-brisbane-2015</guid>
+        <link>http://luchia.com.au/analogue-digital-brisbane-2015</link>
+        <guid isPermaLink="true">http://luchia.com.au/analogue-digital-brisbane-2015</guid>
         
         
       </item>
@@ -513,8 +534,8 @@
 &lt;p&gt;Finally, whenever you have the chance - disconnect from the world. Switch off your computer, your phone, everything. Go sit outside in the park and watch the clouds float by. Meditate and think about the something outside of your small circle - for me, that’s space - and remind yourself that no matter what’s happening in your life, it too will pass.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 May 2015 00:00:00 +1000</pubDate>
-        <link>http://myblog.***.***/working-at-security-innovation</link>
-        <guid isPermaLink="true">http://myblog.***.***/working-at-security-innovation</guid>
+        <link>http://luchia.com.au/working-at-security-innovation</link>
+        <guid isPermaLink="true">http://luchia.com.au/working-at-security-innovation</guid>
         
         
       </item>
@@ -532,8 +553,8 @@
 &lt;p&gt;I whipped this version up in my spare time in the last week and am looking forward to refining it over time, while enjoying the ease of maintaining a website that compiles it’s own content and does automatic deploys for me, for once.&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Apr 2015 00:00:00 +1000</pubDate>
-        <link>http://myblog.***.***/jekyll-ftw</link>
-        <guid isPermaLink="true">http://myblog.***.***/jekyll-ftw</guid>
+        <link>http://luchia.com.au/jekyll-ftw</link>
+        <guid isPermaLink="true">http://luchia.com.au/jekyll-ftw</guid>
         
         
       </item>
