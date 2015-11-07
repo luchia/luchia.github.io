@@ -21,8 +21,18 @@
 	color: #007450;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Bitter', serif;
+}
+
 p {
+	font-family: 'Open Sans', san-serif;
 	line-height: 1.75em;
+	font-size: 0.95em;
+}
+
+.post .post-content p, .content article .post-excerpt {
+	font-size: 16px;
 }
 
 *, *:after, *:before {
