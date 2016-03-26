@@ -3,7 +3,7 @@ title: Lucy Bloomfield
 email: hello@luchia.com.au
 description: I don't know what I do anymore but I don't really care either. I design things, I cook and eat, I photograph and write about the places that I'm in.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://luchia.com.au" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
