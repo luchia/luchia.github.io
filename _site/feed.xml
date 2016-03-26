@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucy Bloomfield</title>
-    <description>My little piece of the internet</description>
-    <link>http://luchia.com.au/</link>
-    <atom:link href="http://luchia.com.au/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 22 Nov 2015 12:28:48 +1100</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2015 12:28:48 +1100</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <description>I don&#39;t know what I do anymore but I don&#39;t really care either. I design things, I cook and eat, I photograph and write about the places that I&#39;m in.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 26 Mar 2016 15:03:15 +1100</pubDate>
+    <lastBuildDate>Sat, 26 Mar 2016 15:03:15 +1100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>5 Morning Rituals That Make Me Feel Accomplished</title>
@@ -15,36 +15,40 @@
 
 &lt;p&gt;In the last 6 months, I’ve been using myself as a bit of guinea pig and experimenting with different actions and noticing the effects they have on me. At this stage, I feel like I’ve really nailed my morning routine and feel comfortable with the feeling of accomplishment it gives me and also the state of mind it leaves me in to finish my day. I thought it could be interesting to share what I do and potentially open up some discussion in regards to ways I could improve my day.&lt;/p&gt;
 
-&lt;h2&gt;Make the bed&lt;/h2&gt;
+&lt;h2 id=&quot;make-the-bed&quot;&gt;Make the bed&lt;/h2&gt;
 
 &lt;p&gt;If I only do one thing a day, it’s got to be this. Leaving the house knowing this is done makes me feel like I’ve done the smallest thing right, even if everything else goes wrong. I’ve noticed if I do this, I notice other small things that go right and become more appreciative of those. More appreciation = greater happiness.&lt;/p&gt;
 
-&lt;h2&gt;Getting up early&lt;/h2&gt;
+&lt;h2 id=&quot;getting-up-early&quot;&gt;Getting up early&lt;/h2&gt;
 
 &lt;p&gt;It’s been a drag doing this recently, especially when I spend the night with my partner talking strategy for Trefiel, but without a doubt this is a huge contributor to how I feel about my day and how much I get done. When I’m up early, the whole day lies ahead of me - glittering and full of possibility. I get the quiet of the mornings, where no one is awake and there are no interruptions. I also get an exceptionally good nights sleep when i stay in routine and wake up early every day.&lt;/p&gt;
 
-&lt;h2&gt;Exercise&lt;/h2&gt;
+&lt;h2 id=&quot;exercise&quot;&gt;Exercise&lt;/h2&gt;
 
 &lt;p&gt;The prime time to do cardio. I’m trying a split at the moment that requires 2 workouts a day, but for only 20 minutes each - the goal being to train with extremely high intensity in two short bursts. I can definitely attest to the success I’m having with this at the moment as I’m 21% body fat and leaner than I’ve ever been. Getting a dose of endorphins before I sit down to work also helps with my concentration and ability to retain information. I’ve noticed that if I listen to podcasts or University material while I exercise, I have higher retention of the information.&lt;/p&gt;
 
-&lt;h2&gt;Fasting&lt;/h2&gt;
+&lt;h2 id=&quot;fasting&quot;&gt;Fasting&lt;/h2&gt;
 
 &lt;p&gt;This is something I’ve been playing with consistently for about a month now, although I have done it previously. Fasting is a god-send when you’re dropping weight. For one thing, you only have a short period of time that’s open for eating, which means fitting in the days calories becomes a much more difficult thing. Instead of spreading my calories over an entire day (3 meals plus snacking), I fit it into an 8 hour window that usually consists of 2 meals plus minimal snacking.&lt;/p&gt;
 
 &lt;p&gt;Another thing is the concentration gained from not thinking about food constantly. I know that I can’t be the only one that struggles with this. Once I start eating, I think about my next meal constantly and am dealing with hungry pains all day. Making this phase shorter has lessened it’s impact on my life but also given me extreme clarity.&lt;/p&gt;
 
-&lt;h2&gt;Lemon Water&lt;/h2&gt;
+&lt;h2 id=&quot;lemon-water&quot;&gt;Lemon Water&lt;/h2&gt;
 
 &lt;p&gt;This one is related to fasting. I enjoy the way this beverage makes me feel in the mornings while I’m waiting for my fasting period to end. A lot of people like tea and coffee while fasting because it does quell hunger pains, but I’m steering clear of caffeine at the moment (another thing that I think helps with concentration) and for me this is just as good. It’s 100x better with coconut oil in it, but isn’t everything?&lt;/p&gt;
 
-&lt;hr&gt;
+&lt;hr /&gt;
 
 &lt;p&gt;Hopefully this gives people some ideas about habits that actually work to improve focus and accomplishments achieved. I’d be interested to hear if anyone has any suggestions about other things I could try to improve my morning rituals further.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 22 Nov 2015 00:00:00 +1100</pubDate>
-        <link>http://luchia.com.au/morning-rituals</link>
-        <guid isPermaLink="true">http://luchia.com.au/morning-rituals</guid>
+        <pubDate>Mon, 23 Nov 2015 03:52:07 +1100</pubDate>
+        <link>http://yourdomain.com/morning-rituals</link>
+        <guid isPermaLink="true">http://yourdomain.com/morning-rituals</guid>
         
+        
+        <category>life</category>
+        
+        <category>habits</category>
         
       </item>
     
@@ -64,10 +68,14 @@
 
 &lt;p&gt;NB: I didn’t even edit this post. First version FTW.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 11 Nov 2015 00:00:00 +1100</pubDate>
-        <link>http://luchia.com.au/the-first-version</link>
-        <guid isPermaLink="true">http://luchia.com.au/the-first-version</guid>
+        <pubDate>Thu, 12 Nov 2015 03:52:07 +1100</pubDate>
+        <link>http://yourdomain.com/the-first-version</link>
+        <guid isPermaLink="true">http://yourdomain.com/the-first-version</guid>
         
+        
+        <category>melbourne</category>
+        
+        <category>observations</category>
         
       </item>
     
@@ -75,7 +83,7 @@
         <title>Spring Chaos</title>
         <description>&lt;p&gt;Spring is my favourite time of the year. The sun starts to burn a little, the days warm up yet the nights are still cool. I sometimes still get a rainy day to lay in bed on the weekends (or week days), but there’s also the beautiful clear days that should only be spent racing through the mountains on a motorbike.&lt;/p&gt;
 
-&lt;p&gt;Although I’ve been writing regularly for myself, I haven’t touched this blog in months, let alone had the desire to craft a well-written post. Although there have been posts created in 2015, reading them back I realise they lack the special spark that makes this corner of the internet, mine. &lt;/p&gt;
+&lt;p&gt;Although I’ve been writing regularly for myself, I haven’t touched this blog in months, let alone had the desire to craft a well-written post. Although there have been posts created in 2015, reading them back I realise they lack the special spark that makes this corner of the internet, mine.&lt;/p&gt;
 
 &lt;p&gt;So where did Lucy go? Simply put, I was too busy living my life to write about and document it. This year I’ve spoken at multiple conferences, I lived in the Middle East (amazing place, would go back there in a heartbeat), learnt to ride a motorbike, learnt how to pole dance, had surgery, learnt how to cook (properly) and moved to a new city. I’ve explored my identity and the ways in which I express myself, my communication channels, my relationships and my flaws. I’ve even managed, although I still struggle with it, to remove myself entirely from social media, excluding business accounts.&lt;/p&gt;
 
@@ -85,405 +93,28 @@
 
 &lt;p&gt;I call this spring chaos because I feel like the whole concept of ‘spring cleaning’ and the end of the year drives people to do wild things - review their life, say things that haven’t been said, finish half-completed things and make big changes. In that respect, I’m not all that unusual.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 03 Nov 2015 00:00:00 +1100</pubDate>
-        <link>http://luchia.com.au/spring-chaos</link>
-        <guid isPermaLink="true">http://luchia.com.au/spring-chaos</guid>
+        <pubDate>Wed, 04 Nov 2015 03:52:07 +1100</pubDate>
+        <link>http://yourdomain.com/spring-chaos</link>
+        <guid isPermaLink="true">http://yourdomain.com/spring-chaos</guid>
         
         
-      </item>
-    
-      <item>
-        <title>WordCamp Brisbane, 2015</title>
-        <description>&lt;p&gt;Recently, I gave a talk at WordCamp Brisbane 2015 relating to Modern Design. It covered topics like designing in the browser, mobile first and focusing on data. I&amp;#39;ve decided to post my slides and speaker notes for future reference.&lt;/p&gt;
-
-&lt;p&gt;This was undeniably the best talk I&amp;#39;ve given so far and I&amp;#39;m really grateful I was given the opportunity to talk at WCBNE. If you have any follow up questions, please don&amp;#39;t hesitate to contact me via email or twitter.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-1.png&quot; alt=&quot;WordCamp Brisbane - Modern design is...&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Hello. I wanted to say a quick thank you to the WordCamp organisers. I’ve been to quite a few conferences this year, both as a speaker and attendee, and this one has been flawlessly organised and extremely well run. I think they deserve a round of applause for all their hard work.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-2.png&quot; alt=&quot;WordCamp Brisbane - Who&amp;#39;s Lucy Bloomfield?&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;So, this is me. I’m Lucy Bloomfield. I run a consulting business and have worked for a number of international companies. One of my best clients and most enjoyable work thus far has been with a company in the US called &lt;a href=&quot;http://www.securityinnovation.com/&quot;&gt;Security Innovation&lt;/a&gt;. I’ve worked with them for the last 12 months and have been really lucky with the projects I’ve been given. My day-to-day job varies but I guess you could call me lead guru on everything digital.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-3.png&quot; alt=&quot;WordCamp Brisbane - Modern design is not just white space and minimalism&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;I think a lot of people could tell me what modern design looks like because, all of a sudden, design is popular.&lt;/p&gt;
-
-&lt;p&gt;Modern design looks like white space and minimalism. It looks flat. It’s often pretty. But this still doesn’t describe what it is.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-4.png&quot; alt=&quot;WordCamp Brisbane - Modern design is functionality vs aesthetics&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;What is modern design?&lt;/p&gt;
-
-&lt;p&gt;For me, modern design is the result of functionality head butting aesthetics. It&amp;#39;s simple. Beautiful. User-friendly. Clever. And it works.&lt;/p&gt;
-
-&lt;p&gt;Regardless of whether you love or hate Apple and their products, you need to understand what they did. They make it possible for all designers to make a fair living and to be valued members of teams. They also made difficult for businesses to release badly designed products or services. For that, we have something to be grateful for because now designers are in demand.&lt;/p&gt;
-
-&lt;p&gt;The thing that I love most about modern design is that I get to be apart of it. We were born in the right lifetime to be designers. We’re now valued and appreciated. We have high ranking positions in big companies. We create the interface for the modern world to connect. We have the opportunity to change our world.&lt;/p&gt;
-
-&lt;p&gt;So we have an exciting period ahead of us. We have new devices to design for. We also have new responsibility. It’s no longer acceptable to release a badly designed website or product.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-5.png&quot; alt=&quot;WordCamp Brisbane - Design for designs sake is bad&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;But… it still happens. Hackaball is a computer you can throw. It’s supposed to encourage children who want to program to also exercise. All I can say is… ‘why?’ That doesn’t answer any question.&lt;/p&gt;
-
-&lt;p&gt;So that’s why I’m here today. I want to talk about your process and how you can optimise it by immersing yourself in each phase.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-6.png&quot; alt=&quot;WordCamp Brisbane - Discovery, Exploration, Deployment, Observation&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Your process should involve four key stages. The names vary, but this is how I label them. These phases break apart the design process. They create sections in a complex series of actions.&lt;/p&gt;
-
-&lt;p&gt;Together, let’s explore how you can use them to create great design.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-7.png&quot; alt=&quot;WordCamp Brisbane - Discovery Phase&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;The first phase is Discovery - hands down, the most important phase. Discovery is your immediate response to the clients brief. Notes, research, competitor analysis, user personas, storyboards, mind mapping, brainstorming. You can use any medium but I like paper and pencil because I can draw something for anything and I can do it quickly.&lt;/p&gt;
-
-&lt;p&gt;Say you have a new client.  They want a website and you have two weeks to do it. Your discovery phase is going to do all of your work for you. You can explore many different ideas for the website. Then, you can transpose those ideas to different devices wiith speed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-8.png&quot; alt=&quot;WordCamp Brisbane - Modern design is creativity as a product of logic&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Your sketches are going to look ugly and bad. Don’t worry though, I like to think of sketching badly as a type of therapy. If I don’t draw something badly every day, I feel like I haven’t accomplished anything.&lt;/p&gt;
-
-&lt;p&gt;Although I’m creative, much of my creativity stems from logic. That’s why you’ll see lots of notes around my sketches. I’m exploring details and ideas. I state the obvious. I look at what I like, what I don’t like and why. My notes help me understand my designs and improve my work. It’s a basic technique but what it does is simplify complexity.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-9.png&quot; alt=&quot;WordCamp Brisbane - Modern design is starting with a dream version&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;When I’ve finished all my research, I’m ready to start designing. The first thing I do is list all of the elements I’m going to need on the page. Then I start sketching, beginning with the desktop view. This may seem a little backwards, given the subject of my talk today. But hear me out.&lt;/p&gt;
-
-&lt;p&gt;I start by sketching on desktop because it’s always nice to start a project with a wild idea of what something could be. I call this the ‘dreamer’ version. When you have a ‘dreamer’ version, you can start sketching for other devices. Sketching for devices that don’t have room for dreams creates realistic expectations. It helps trim unnecessary creativity. Design for design sake is difficult on mobile.&lt;/p&gt;
-
-&lt;p&gt;When you have a refined idea for smaller devices, you can revisit the desktop design. I think about how I’ll make it move fluidly from mobile to desktop. I also consider what ideas I had in the desktop version that are unnecessary.&lt;/p&gt;
-
-&lt;p&gt;I could do this process up to 20 times with different ideas. Some ideas are good, some are bad and some just need polish. That’s where your taste comes into play.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-10.png&quot; alt=&quot;WordCamp Brisbane - Modern design is binning bad ideas quickly&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;I can fill hundreds of pages with notes and sketches during Discovery. My ideas are rough and executed quickly. A lot of them are binned quickly too. There are many reasons for this:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;It might not work or answer the question.&lt;/li&gt;
-&lt;li&gt;It could be too creative or not creative enough.&lt;/li&gt;
-&lt;li&gt;Whatever it is, I acknowledge why it’s not working quickly.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is a major part of the discovery phase.&lt;/p&gt;
-
-&lt;p&gt;The quicker you scrap your bad designs, the quicker you’ll move onto a better idea.  Communication is key to understanding when to move on. Notes, talking to team mates or even talking to yourself works. Try to be a client and nit pick at details that aren’t quite right. Then, try to be a designer and sell it back to the client. These different viewpoints will allow you to understand your designs.&lt;/p&gt;
-
-&lt;p&gt;You need to evaluate your ideas. Make logical decisions about whether they answer the question. Take on board what’s being said and make a quick decision. Move on or keep going.&lt;/p&gt;
-
-&lt;p&gt;Your goal is to refine an idea in it’s intended environment. As web designers, our idea is often a website or web application. And they need the browser to flourish.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-11.png&quot; alt=&quot;WordCamp Brisbane - Exploration Phase&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;The next phase is exploration. You’ve sketched your ideas and refined your design. And now you need to create something with your sketches. I do this in the browser.&lt;/p&gt;
-
-&lt;p&gt;It’s not uncommon to design in the browser anymore. I think clients still want to see visual mockups that show pixel perfection. They want to see the product… which is fine, if we only had to design for desktop. But to do so for many, varied devices is painful and time-intensive.&lt;/p&gt;
-
-&lt;p&gt;Designing in the browser is quicker. You’re moving time spent in Photoshop to time preparing the website in it’s intended environment. The client can interact with the website as it’s built. They can see and feel it.  From the beginning, you can start designing interactions. Mockups aren’t able to give that experience like a website can.&lt;/p&gt;
-
-&lt;p&gt;This is all dependant on you being able to code - CSS, HTML and Javascript.  If you don’t know these, then I recommend you learn. It’s always a good idea to upskill but another reason to learn is control of your design.&lt;/p&gt;
-
-&lt;p&gt;If you can code you won’t ever hand your design to a developer. You’ll do it yourself.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-12.png&quot; alt=&quot;WordCamp Brisbane - Modern design is user experience above all else&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;If you know how to code, then you can jump straight in. I recommend beginning with mobile first.&lt;/p&gt;
-
-&lt;p&gt;Why mobile?&lt;/p&gt;
-
-&lt;p&gt;It’s easier to fit more elements into a wider screen than it is to try and squish elements in to a narrow screen. You have an opportunity to streamline what you are building. The highest performing device should be able to access your website easily and beautifully. The simplest device should also have the same experience.&lt;/p&gt;
-
-&lt;p&gt;Begin by laying out a wireframe, the main structure of the website. Concentrate on the mobile experience. Is navigation easily accessible with the thumbs? Is font-size correct? Is your website accessible? Add styles to align with the branding identity last.&lt;/p&gt;
-
-&lt;p&gt;Once you have a mobile prototype, you can move to larger views. Decide where you want breakpoints and use media queries for those. Your stylesheet should apply to the most simple form of the website first. Then, when applicable, it should add additional styles. This is where the term mobile-first comes from. As much as possible, you want to limit your duplicate styles. This is one of the best ways to do it.&lt;/p&gt;
-
-&lt;p&gt;Now, because you’ve already started designing in the browser, you have a first version. It’s a real life prototype of the website. It moves, scales and responds. It can be released and tested. We call this rapid prototyping in the start up industry.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-13.png&quot; alt=&quot;WordCamp Brisbane - Deployment Phase&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Your next phase of design is deployment.The idea is to quickly build a first version and iterate for improvements. The first version is functional, but commonly isn’t pretty.&lt;/p&gt;
-
-&lt;p&gt;The main reason for deploying prototypes is feedback. You can receive it early and regularly. You can improve design and functionality as you go. It also stops you from rolling out massive changes, only to find they provide an inadequate solution.&lt;/p&gt;
-
-&lt;p&gt;A perfect example is Facebook. Remember when they rolled out Timeline?  It was a massive change and everyone hated it at the time. But now everyone loves it.&lt;/p&gt;
-
-&lt;p&gt;Facebook is lucky enough to have enough users that a mutual hatred of the interface doesn’t matter. The same cannot be said for your clients. This is why it’s important to make small changes over periods of time.&lt;/p&gt;
-
-&lt;p&gt;This depends on the client and what type of project you’re working on. Say you have a 5 week sprint on a small business website. With your normal technique, you’re probably not going to have the opportunity to get user feedback. But, if you start by designing in the browser, you can have the chance to do this. You can release a prototype and it can be experienced and interacted with. You can test it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-14.png&quot; alt=&quot;WordCamp Brisbane - Observation Phase&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;The next phase is Oberservation. Observation is essentially testing the product with users. Analytics and A/B testing are the most common. But they can also be entirely useless. Numbers look important but lack context or don’t provide direction.&lt;/p&gt;
-
-&lt;p&gt;Don’t assume that numbers are the truth. In some ways they are - X number of visitors came to your site, Y clicked the first link and Z clicked the second. This data fails you though. It fails you because it does not tell you why those users performed certain actions.&lt;/p&gt;
-
-&lt;p&gt;Data-centered design goes beyond analytics and A/B testing. The goal is to understand the everyday experience better. This is incredibly important to your clients businesses. The why of user behaviour is essential to improving their product or service.&lt;/p&gt;
-
-&lt;p&gt;Many would call this user experience. But I don’t think it should be a separate category. This is part of the designers job. To design a website, then to improve it based on it’s users needs.&lt;/p&gt;
-
-&lt;p&gt;To show you the importance of this, let’s look at an example. Say you’ve been given a project with a small business. Your objective is to further engage and retain users with design changes. If this were my project, the first thing I’d do would be to look at the data. I would want to the know what the exit rate and bounce rate are. With these two pieces of data, you can sort all the pages by those rates. You can find pages that are performing badly in relation to those rates.&lt;/p&gt;
-
-&lt;p&gt;Let’s say we have two pages that are performing badly. One is a page that links to another site. The other is a blog post. Now the first I can understand. It has an outward link and we encourage users to leave. But the second… why are my users leaving?&lt;/p&gt;
-
-&lt;p&gt;The only way to confirm this is to go to the user and ask them. User research is a huge subject and I couldn’t fit it into todays talk but I will give a brief overview. User interviews and focus groups require self-reporting of behaviour and preferences. Humans really suck at self-reporting - we have confirmation bias and we don’t understand ourselves very well.&lt;/p&gt;
-
-&lt;p&gt;This is why user testing should capture data by many methods. You can film the user as they go. Film their screen. Sit in the room with them and take notes. Require that they talk about what they’re doing and why.&lt;/p&gt;
-
-&lt;p&gt;If you can narrow it down to a page or two, you will have a better chance of success. You will be able to directly measure whether your design changes are making a difference. Is your bounce rate smaller or larger after making x changes?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-15.png&quot; alt=&quot;WordCamp Brisbane - Modern design is avoiding assumptions about users&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Without data, you’re just another person with an opinion. You’re also educated because you work with websites for a living. You understand them better than the average person.&lt;/p&gt;
-
-&lt;p&gt;A great example of this is the hamburger icon. As designers, we see that and intuitively know that it hides navigation. Many web professionals have done research on this and have found that the average user does &lt;em&gt;NOT&lt;/em&gt; know that that is a button for off-screen navigation. They assume it&amp;#39;s a graphical element, rather than a toggle.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-16.png&quot; alt=&quot;WordCamp Brisbane - Modern design is similar to washing your clothes every week&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Modern design is like washing your clothes every week. They look okay, they smell okay, they feel okay. But it’s the principle. Something can always be made better by revisiting it. Your clothes definitely need washing. And your design definitely needs to be revised.&lt;/p&gt;
-
-&lt;p&gt;For start ups, this is normal. We have a dedicated team to a product. We revisit it constantly looking for improvements and listening to users.&lt;/p&gt;
-
-&lt;p&gt;For shorter projects, it may not be possible to revisit again. But you should create good relationships with your clients so you can educate them. Explain to them why they need to iterate to continue to develop their brand. That it’s not a static object, but an entity. A living, breathing thing. By being open about the process, you will get the opportunity to iterate on your work.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-17.png&quot; alt=&quot;WordCamp Brisbane - Don’t fall victim to pretty looking things that don’t work&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Don’t fall victim to pretty looking things that don’t work.  This refers to what modern design looks like.  Just because it’s popular doesn’t mean it will work for your client and users.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-18.png&quot; alt=&quot;WordCamp Brisbane - Use sketching to realise your ideas or your concepts&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Use sketching to realise your ideas or your concepts. Once it’s on paper, you can see it and improve it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-19.png&quot; alt=&quot;WordCamp Brisbane - Don’t be scared of being a bad designer&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Don’t be scared of being a bad designer. Everyone has terrible ideas. If your sketches aren’t working, understand and identify why. Trust your instinct.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-20.png&quot; alt=&quot;WordCamp Brisbane - Refine your ideas in their intended environment&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Refine your ideas in their intended environment.  If you’re designing for web, you need your project to be in the environment it needs to perform in. Simple as that.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-21.png&quot; alt=&quot;WordCamp Brisbane - Build for the bare minimum first&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Build for the bare minimum first. Always start with mobile and scale upwards.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-22.png&quot; alt=&quot;WordCamp Brisbane - Get a first version out quickly&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Get a first version out quickly. A mockup doesn’t count and cannot be used for realistic feedback.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-24.png&quot; alt=&quot;WordCamp Brisbane - Use testing and data to improve over time&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Use testing and data to improve over time. Brings users and clients in for user testing and analyse data to make refined decisions.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-25.png&quot; alt=&quot;WordCamp Brisbane - Create great relationships with your clients&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Create great relationships with your clients. You’ll enjoy your work and you’ll have the opportunity to revisit it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/wordcamp/wordcamp-26.png&quot; alt=&quot;WordCamp Brisbane - Modern design is process, not product&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;So how does this all tie back into what modern design is?&lt;/p&gt;
-
-&lt;p&gt;I believe that modern design is the clash of functionality and aesthetics. But mostly, I believe that modern design is process, not product. And by concentrating on your process, you too can create great design.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 Jun 2015 00:00:00 +1000</pubDate>
-        <link>http://luchia.com.au/wordcamp-bne</link>
-        <guid isPermaLink="true">http://luchia.com.au/wordcamp-bne</guid>
+        <category>life</category>
         
+        <category>observations</category>
         
       </item>
     
       <item>
-        <title>Flexbox 101</title>
-        <description>&lt;p&gt;I gave a talk to Brisbane Web Design meet up about my work with TEAM Mentor recently, specifically building responsive web applications with Flexbox. I have included screenshots and my speaker notes in this post for anyone who may find them interesting.&lt;/p&gt;
+        <title>What it&#39;s like to work remotely</title>
+        <description>&lt;p&gt;For the last three to four months, I’ve spoken at quite a few conferences about working remotely. In Australia, this concept hasn’t really come into play that much yet and I think one of the main reasons for this is that we don’t have a large start up scene here and a lot of the companies designers and developers work for are brick and mortar types (ie. very old-fashioned).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/flexbox-intro.png&quot; alt=&quot;Flexbox Intro&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I’ve really enjoyed sharing what working remotely is, how good it is and how to do it efficiently which is something I know a lot about thanks to the team at &lt;a href=&quot;http://www.securityinnovation.com&quot;&gt;Security Innovation&lt;/a&gt;. As I wrapped up my last talk on working remotely at Decompress, Melbourne, I thought I’d do a summary post of what it’s like to work remotely and why I love working for SI so much.&lt;/p&gt;
 
-&lt;p&gt;Hello, my name is Lucy Bloomfield and I love Flexbox. I’m a designer and I specialise in User Interface, User Experience and Product Design. &lt;/p&gt;
+&lt;h3 id=&quot;what-is-working-remotely&quot;&gt;What is working remotely?&lt;/h3&gt;
 
-&lt;p&gt;I’ve spoken here before about how I got to where I am but long story short, I got sick of doing the usual 9-5 in agencies so I decided that I’d take a hiatus from my career and I moved overseas. Funnily enough, it ended up being far better for my career than staying home.&lt;/p&gt;
+&lt;p&gt;It’s when you complete you work in a place other than your employees office. It can be working from home, from a co-working space or while travelling - as I did for the last 12 months. It’s becoming a more and more viable solution to the productive worker conundrum, giving freedom and responsibility to the employee while cutting down costs and improving output for the employer.&lt;/p&gt;
 
-&lt;p&gt;I’ve worked on a few large scale projects in the last twelve months, specifically TEAM Mentor, which is a knowledge database for developers that teaches them how to program secure applications. My work with this project has involved a huge redesign of the application itself. The first thing to go was the iframes that the application still had from when it was originally built. While searching for an alternative, I found Flexbox - my new favourite tool for building responsive applications.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/what-is-flexbox.png&quot; alt=&quot;What is Flexbox?&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Flexbox is a part of the CSS3 framework. It’s a layout mode which provides an effective way to structure web pages, position items and allocate space between those in items. It’s biggest strength lies in it’s ability to interpret screen space as ratios. It’s perfect for building responsive websites.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/can-i-use-it.png&quot; alt=&quot;Can I use it now?&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;It depends.&lt;/p&gt;
-
-&lt;p&gt;If you know that you have users who browse your site with IE 10 or earlier, you will need to develop a fallback method. There are some conditions of use, but overall it’s a fairly well-embraced technology. You will need to define flex properties multiple times for the major browser but, for the sake of a few extra lines of code, you can get multi-browser responsiveness at very little cost.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/how-do-i-use-it.png&quot; alt=&quot;How do I use it?&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;In a nutshell:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You define a container as a flexible box.&lt;/li&gt;
-&lt;li&gt;Any child element within that parent is now a flexible item.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It sounds overly simple and that’s because it is. Flexbox is easy. Let me show you.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/container-1.png&quot; alt=&quot;Container 1&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Defines flex container and let’s all direct children be flex items.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/container-2.png&quot; alt=&quot;Container 2&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Defines main axis of container. Flex box is a single direction layout concept. Think of your flex items as being rows or columns.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/container-3.png&quot; alt=&quot;Container 3&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Default behaviour is try and fit all flex items onto one line. You can change this by telling the container to wrap the items. Direction directly affects this property. Wrap + Direction can be compressed into flex-flow to save extra lines of code. This is recommended.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/container-4.png&quot; alt=&quot;Container 4&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Defines alignment along the main axis for the container. Distributes free space left over when flex items can no longer expand anymore. You can align them to the start, end or centre of the container. You can also add space between or space all around the elements.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/container-5.png&quot; alt=&quot;Container 5&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Similar to justify content. Refers to how flex items are laid out on a cross axis (perpendicular to main axis). The strongest point for this property is the ability to make the flex items stretch to fill the container.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/container-6.png&quot; alt=&quot;Container 6&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Align content will only work if there are multiple lines of items. It tells the group of items where to start.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/item-1.png&quot; alt=&quot;Item 1&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Most exciting aspect is ability to change source order. Default is to order them as they are in the source.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/item-2.png&quot; alt=&quot;Item 2&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Ability to grow if necessary. Unitless value that acts as a proportion. 1:1 and 2:1. Shrink if necessary. Useful for mobile to desktop. Default size before distributing remaining space. Depending on direction of container, need to define width or height. Any unit of measurement or you can use auto.&lt;/p&gt;
-
-&lt;p&gt;Grow + Shrink + Basis = Flex. This is recommended.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/item-3.png&quot; alt=&quot;Item 3&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Ability to over-ride the align-items property assigned to container. Float, clear and vertical align will not affect flex items. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/code-1.png&quot; alt=&quot;Code Example 1&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://bwd.luchia.com.au/perfect-centering.html&quot;&gt;Perfect centering&lt;/a&gt; with Flexbox.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/code-2.png&quot; alt=&quot;Code Example 2&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://bwd.luchia.com.au/portfolio.html&quot;&gt;Responsive grid&lt;/a&gt; with Flexbox.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../images/flexbox/code-3.png&quot; alt=&quot;Code Example 3&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://bwd.luchia.com.au/website.html&quot;&gt;Responsive website&lt;/a&gt; with Flexbox.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 May 2015 00:00:00 +1000</pubDate>
-        <link>http://luchia.com.au/flexbox-101</link>
-        <guid isPermaLink="true">http://luchia.com.au/flexbox-101</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Summary - A/D BNE 15</title>
-        <description>&lt;p&gt;Due to travel and other circumstances, I haven’t attended an Analogue Digital conference since 2012. The whole setup has definitely improved and become more refined and I give a huge congratulations to Matthew Haynes and the team working tirelessly behind Analogue Digital. Analogue Digital has previously been an exciting, passionate-driven conference with lots of heart-felt talks given by real people. This year was no different. This post is dedicated to summarising the talks I saw as a reference post for me so I don’t forget what I saw and heard.&lt;/p&gt;
-
-&lt;p&gt;For The People’s Jason Little and Andy Wright started off with one of the more relevant and useful speeches of the entire conference. Much of their talk was directed at the younger members of the audience and with essential tips relating to getting into the industry, this talk was both entertaining and helpful.&lt;/p&gt;
-
-&lt;p&gt;The next talk that I attended was the incredibly talented Mad Steez who was humble and gifted as much as he was wacky and well-dressed. Hearing all of his adventures and seeing his incredible paintings go from blank wall to finished products in beautifully captured time lapses inspired me to make a bigger effort to document my processes and make my creative workflow a public asset. He also made me realise that while working from home is fun, I also need to embrace the opportunity of having a studio for my work, giving me the ability to also leave my work at the office. Madsteez was the first of many speakers to bring up the topic of doubt and vulnerability.&lt;/p&gt;
-
-&lt;p&gt;Next up was softly spoken Jack De Caluwe from Future Buro. Jack defined good design as having aesthetics, longevity and relevance and I think many of the more experienced designers in the room felt they couldn’t have said it better themselves. He delved into his process and described how much of his exploration phase is breaking ideas down into words (which was a relief to hear, because I thought I was the only creative that uses words not pictures to generate ideas). He also shared how he uses Wacom to design and combined with the Wacom Masterclass, I have a feeling there’ll be a new addition to my design setup in the near future.&lt;/p&gt;
-
-&lt;p&gt;I also really enjoyed Catherine Doggett and her take on the paper industry. ‘It’s not about what you spend, it’s about your return on investment’ was one of the better quotes for the entire conference. Catherine is not a designer by any means but she understands the importance of collaboration and pushing boundaries.&lt;/p&gt;
-
-&lt;p&gt;The duo Frank &amp;amp; Mimi and Matt Faulk closed the day and what a close. Frank &amp;amp; Mimi littered their talk with genuine passion and beautiful summaries of their process and who they are. They summed up their mantra as ‘Imperfection, Impermanance and Incompletion’ which in my opinion should be adopted by all artists to remove the perfectionism trait that haunts us all. What they coin as ‘Wabi Sabi’, allows them to approach all their work by not rushing and investing into their process. It is common for them to question the value of their work and they both agreed that while vulnerability and doubt are prevalent in their days, they manage to push through this by being relentless and continuing to do great work, regardless of their fear. They also gave heartfelt insights into creating work you hate and being able to admit you’ve created bad work. They closed with one final sentence - ‘Decisions shape your identity’ - which I felt was a gentle nudge in the right direction for all of the students in the audience, who want opportunities but haven’t yet been given them.&lt;/p&gt;
-
-&lt;p&gt;Matt Faulk. Matt Faulk. Matt Faulk. What can I say? Matt blew me away with his humble attitude and his rawness, describing highs and lows throughout his life and wrapping it all up in wisdom gained from being the industry for as long as he is. Often there is an air of arrogance with more senior designers and successful agencies, but Matt was honestly one of the more approachable professionals I’ve ever met and I really enjoyed his workshop the next day. It was with some satisfaction that I realised much of Matt’s process was already my own (self-taught) process and so I was really glad to hear confirmation that the way I work and the path I follow when creating is very similar to such a talented designer. Matt gave so many wonderful quotes and takeaways that I think I’ll write a separate post detailing what I learnt in his workshop and from his talk.&lt;/p&gt;
-
-&lt;p&gt;And for some parting wisdom, the venue was dotted with posters that summarised the days talks -&lt;/p&gt;
-
-&lt;h4&gt;Give more. Take Less. Dream Big. Make an impact.&lt;/h4&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Following on from my summary of Analogue Digital Brisbane, 2015, I wanted to finish this post by summarising my thoughts on both Matt Faulks speech and workshop at this conference.&lt;/p&gt;
-
-&lt;p&gt;Not only was Matt refreshingly upbeat, he was also open about his entire life, his process and his agency while being approachable and friendly. Where the rules are ‘success is progression’, ‘get better everyday’ and ‘no details are too small’, the agency has created some incredible work with many large companies.&lt;/p&gt;
-
-&lt;p&gt;It was a nice surprise to find out that my own self-taught method for creation essentially follows along the same line as one of the most successful agencies in the US. Embracing the process and enjoying where that progression takes you is paramount and hearing this reiterated by a successful CEO was encouraging to say the least.&lt;/p&gt;
-
-&lt;p&gt;Matt defines the concept of a realising an idea as Discovery, Exploration, Creation and from here, I will summarise my notes within these areas.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Data can only tell you so much. Data doesn’t tell you why. Clients won’t tell you why either, so to access this information, you need to conduct user testing.&lt;/li&gt;
-&lt;li&gt;Social proof works. Enough said.&lt;/li&gt;
-&lt;li&gt;Iterative approaches are key. There is no finished product and good ideas often come from moving away from the project.&lt;/li&gt;
-&lt;li&gt;Quick, dirty explorations are the best techniques for trying out ideas. It’ll be ugly - don’t worry.&lt;/li&gt;
-&lt;li&gt;Document everything for the sake of ease. If you want to case study at a later date, but you don’t keep any of your initial thoughts, it’ll be hard. Even keeping track of margins and paddings from the get-go is important for consistency.&lt;/li&gt;
-&lt;li&gt;Best practices are great, but safe.&lt;/li&gt;
-&lt;li&gt;Users want functionality, not aesthetics. Don’t build beautiful looking, crappy things. Take the time to focus on ease of use.&lt;/li&gt;
-&lt;li&gt;Art is not design. Art is like masturbation - it’s for the artist only - but design is like sex because it needs please all parties.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;When Matt summarised his entire talk, he gave us the following takeaways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wing it - “experts&amp;quot; don’t know what they’re doing either&lt;/li&gt;
-&lt;li&gt;Fail &amp;amp; Learn - preferably quickly&lt;/li&gt;
-&lt;li&gt;Collaborate - you don’t need to be the best at everything&lt;/li&gt;
-&lt;li&gt;Be inspired&lt;/li&gt;
-&lt;li&gt;Be human - you’re not designing for machines, you’re designing for people.&lt;/li&gt;
-&lt;li&gt;Be positive - nothing is worse than a negative-nancy.&lt;/li&gt;
-&lt;li&gt;Be strategic - take opportunities but be smart.&lt;/li&gt;
-&lt;li&gt;Do small things well.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The next day was Matt’s workshop and one that I had been looking forward to for quite a few weeks. Matt didn’t need to summarise his talk which meant that we could get straight into the workshop and actually working on a project, which ended up being the redesign of the Analogue Digital website.&lt;/p&gt;
-
-&lt;p&gt;Analogue Digital has gotten quite a lot of negative feedback about their website and for good reason - it missed the mark on the day of the conference by not providing the necessary information needed to get to the conference, at the right time for whatever you wanted to see. In terms of a conference website, it failed hard. So it was our job, to come up with ideas to revisit it.&lt;/p&gt;
-
-&lt;p&gt;Sites need scalability, flexibility and adaptability (that’s a lot of -abailities). Designs should be made for content and context, not for the sake of design. This where A/D fell short on their website. Design for aesthetics, but not for function. It’s also one of the reasons why I think the web is currently flooded with websites that are useless and confusing but look good - there are too many people chasing this ideal, but not the idea. But I digress.&lt;/p&gt;
-
-&lt;p&gt;The phases that Matt laid out for us were easy to understand:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Discovery&lt;/li&gt;
-&lt;li&gt;Strategy&lt;/li&gt;
-&lt;li&gt;Exploration&lt;/li&gt;
-&lt;li&gt;Refinement&lt;/li&gt;
-&lt;li&gt;Deploy&lt;/li&gt;
-&lt;li&gt;Evolve&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;He recommended that from the beginning of the project, you work hands on with clients and set up workshops where brainstorming, research, mind maps, user flows, user personas, sketches and wireframes are done with the client in the same room. I know that this is a scary thought for a lot of designers, but I think it’s one that provides better collaboration. No longer do you need to express ideas via email or over the phone - you can do it in person.&lt;/p&gt;
-
-&lt;p&gt;Matt also made it clear that objectives are essential and working closely with the client to understand the goals and requirements of the project is a must. Our client was the organiser of the conference, so we didn’t get all the much time with him, but the time we did have resulted in close to three pages of notes (for me). As is often the case, clients can go all over the place with ideas and dreams but the important thing is to narrow down what they’ve told you into useful information for the project you’re working on.&lt;/p&gt;
-
-&lt;p&gt;Once you’ve categorised the useful information, it’s time to get to work. The first part is listing absolutely everything you could possibly think of to include in the project. Design ideas, visual concepts, page elements, visual elements, ticketing systems, calendar systems, product ideas, social media integration - literally everything you could ever imagine the website being. It’s important to have a huge idea from the start so that project restraints can then be applied and in turn, help refine and create a more sophisticated product.&lt;/p&gt;
-
-&lt;p&gt;The next step is to sketch like crazy while playing a game of Crazy 8’s. Crazy 8’s is folding a paper in 8 and drawing 8 concepts as quickly as you can in under five minutes. This drawings are &lt;em&gt;rough&lt;/em&gt; and ugly but that’s almost the point. Forget about design. Forget about beauty. How should the product work and how do users move about through it? Once the first round was completed, members of teams shared their ideas then repeated the game three times. By the end of it, ideas have solidified and it’s time to create very rough wireframes for presentations.&lt;/p&gt;
-
-&lt;p&gt;I really enjoyed collaborating with other designers as it’s not something I often get to do and I also really enjoyed the sprint. I have the luxury of working on a software product that doesn’t really have any deadlines, so long as everyone is moving forward, so the rush and excitement of needing to have an idea somewhat polished in half an hour was really enjoyable.&lt;/p&gt;
-
-&lt;p&gt;A huge thank you to Matt Faulk again for such an enjoyable workshop and for sharing his insight.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 17 May 2015 00:00:00 +1000</pubDate>
-        <link>http://luchia.com.au/analogue-digital-brisbane-2015</link>
-        <guid isPermaLink="true">http://luchia.com.au/analogue-digital-brisbane-2015</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>What&#39;s it&#39;s like to work at SI</title>
-        <description>&lt;p&gt;For the last three to four months, I&amp;#39;ve spoken at quite a few conferences about working remotely. In Australia, this concept hasn&amp;#39;t really come into play that much yet and I think one of the main reasons for this is that we don&amp;#39;t have a large start up scene here and a lot of the companies designers and developers work for are brick and mortar types (ie. very old-fashioned).&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;ve really enjoyed sharing what working remotely is, how good it is and how to do it efficiently which is something I know a lot about thanks to the team at &lt;a href=&quot;http://www.securityinnovation.com&quot;&gt;Security Innovation&lt;/a&gt;. As I wrapped up my last talk on working remotely at Decompress, Melbourne, I thought I&amp;#39;d do a summary post of what it&amp;#39;s like to work remotely and why I love working for SI so much.&lt;/p&gt;
-
-&lt;h3&gt;What is working remotely?&lt;/h3&gt;
-
-&lt;p&gt;It&amp;#39;s when you complete you work in a place other than your employees office. It can be working from home, from a co-working space or while travelling - as I did for the last 12 months. It&amp;#39;s becoming a more and more viable solution to the productive worker conundrum, giving freedom and responsibility to the employee while cutting down costs and improving output for the employer.&lt;/p&gt;
-
-&lt;h3&gt;How do I become a remote worker?&lt;/h3&gt;
+&lt;h3 id=&quot;how-do-i-become-a-remote-worker&quot;&gt;How do I become a remote worker?&lt;/h3&gt;
 
 &lt;p&gt;If you’re a freelancer, then you can arrange a remote working situation quite easily by re-adjusting your clients and the way you work. If you’re employed, then it’ll be a little different.&lt;/p&gt;
 
@@ -491,81 +122,81 @@
 
 &lt;p&gt;A lot of people ask me about how to become a remote worker and the easy answer is to ask. The worst thing your employer can say to you is no. If you pitch it right and have proven that you can do your work and do it well, the whole telecommuting concept is not a strange or uncommon request.&lt;/p&gt;
 
-&lt;h3&gt;Pros and Cons&lt;/h3&gt;
+&lt;h3 id=&quot;pros-and-cons&quot;&gt;Pros and Cons&lt;/h3&gt;
 
 &lt;p&gt;I’m going to be completely honest about what it’s like to work remotely. The cons are:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Communication is hard (no sharing paper sketches, no brainstorming together)&lt;/li&gt;
-&lt;li&gt;Timezone differences&lt;/li&gt;
-&lt;li&gt;Company culture is hard to maintain because there’s no water cooler to meet at&lt;/li&gt;
-&lt;li&gt;Workaholicism&lt;/li&gt;
-&lt;li&gt;It can be lonely working from home&lt;/li&gt;
-&lt;li&gt;Travelling and finding good internet can be difficult depending on where you are&lt;/li&gt;
+  &lt;li&gt;Communication is hard (no sharing paper sketches, no brainstorming together)&lt;/li&gt;
+  &lt;li&gt;Timezone differences&lt;/li&gt;
+  &lt;li&gt;Company culture is hard to maintain because there’s no water cooler to meet at&lt;/li&gt;
+  &lt;li&gt;Workaholicism&lt;/li&gt;
+  &lt;li&gt;It can be lonely working from home&lt;/li&gt;
+  &lt;li&gt;Travelling and finding good internet can be difficult depending on where you are&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The positives of working remotely:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;You have fantastic work life (balance, picking hours, appointments)&lt;/li&gt;
-&lt;li&gt;Costs are lower&lt;/li&gt;
-&lt;li&gt;Getting away from distractions (but it’s still easy to procrastinate)&lt;/li&gt;
-&lt;li&gt;Wearing your pyjamas to work has its bonuses&lt;/li&gt;
-&lt;li&gt;Increased productivity (10-20% more productive)&lt;/li&gt;
+  &lt;li&gt;You have fantastic work life (balance, picking hours, appointments)&lt;/li&gt;
+  &lt;li&gt;Costs are lower&lt;/li&gt;
+  &lt;li&gt;Getting away from distractions (but it’s still easy to procrastinate)&lt;/li&gt;
+  &lt;li&gt;Wearing your pyjamas to work has its bonuses&lt;/li&gt;
+  &lt;li&gt;Increased productivity (10-20% more productive)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Working remotely is not just beneficial for employees though. From a company perspective, the pros are:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Increased productivity, remote workers log more hours than their office-based colleagues (Gallup’s State of American Workplace)&lt;/li&gt;
-&lt;li&gt;You have access to more talent, better talent and can find it at a faster rate&lt;/li&gt;
-&lt;li&gt;Costs dramatically reduced&lt;/li&gt;
-&lt;li&gt;Respond to ‘oh shit’ moments quicker&lt;/li&gt;
+  &lt;li&gt;Increased productivity, remote workers log more hours than their office-based colleagues (Gallup’s State of American Workplace)&lt;/li&gt;
+  &lt;li&gt;You have access to more talent, better talent and can find it at a faster rate&lt;/li&gt;
+  &lt;li&gt;Costs dramatically reduced&lt;/li&gt;
+  &lt;li&gt;Respond to ‘oh shit’ moments quicker&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;And the cons:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;It’s hard to find people who are good at working remotely&lt;/li&gt;
-&lt;li&gt;Company culture isn’t built naturally (you’ve got to work for it)&lt;/li&gt;
+  &lt;li&gt;It’s hard to find people who are good at working remotely&lt;/li&gt;
+  &lt;li&gt;Company culture isn’t built naturally (you’ve got to work for it)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3&gt;Day-to-day routine&lt;/h3&gt;
+&lt;h3 id=&quot;day-to-day-routine&quot;&gt;Day-to-day routine&lt;/h3&gt;
 
 &lt;p&gt;Currently, I only work four days a week, which for me, is the perfect balance between work and play. This is one of the things I enjoy most about working remotely - I can work when I feel like it. My average day will look something like this-&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;5am - Wake up + coffee&lt;/li&gt;
-&lt;li&gt;5.10am - Laptop on, headphones in&lt;/li&gt;
-&lt;li&gt;8am - Meeting&lt;/li&gt;
-&lt;li&gt;9am - Misc&lt;/li&gt;
-&lt;li&gt;10am - Work&lt;/li&gt;
-&lt;li&gt;2pm - Misc&lt;/li&gt;
-&lt;li&gt;4pm - Work&lt;/li&gt;
-&lt;li&gt;5pm - Bedtime - Misc&lt;/li&gt;
+  &lt;li&gt;5am - Wake up + coffee&lt;/li&gt;
+  &lt;li&gt;5.10am - Laptop on, headphones in&lt;/li&gt;
+  &lt;li&gt;8am - Meeting&lt;/li&gt;
+  &lt;li&gt;9am - Misc&lt;/li&gt;
+  &lt;li&gt;10am - Work&lt;/li&gt;
+  &lt;li&gt;2pm - Misc&lt;/li&gt;
+  &lt;li&gt;4pm - Work&lt;/li&gt;
+  &lt;li&gt;5pm - Bedtime - Misc&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;As you can see, I’ve got a time throughout my day to step away from my work and reset.  Some days I’ll go to the gym twice, read, go see friends, nap, design for side projects, draw, photograph things… whatever I feel like doing.  Some days I work straight through from 5am until 1pm so I have the afternoon and night free.  As long as the work is done, the hours that I work can be spread throughout my day however I like.&lt;/p&gt;
 
-&lt;h3&gt;Software&lt;/h3&gt;
+&lt;h3 id=&quot;software&quot;&gt;Software&lt;/h3&gt;
 
 &lt;p&gt;It’s thanks to technology that I’m able to work the way I do. Most remote workers have a basic set up that’s fairly similar, so I won’t spend too long on this topic.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Skype (meetings)&lt;/li&gt;
-&lt;li&gt;Wunderlist (personal task manager)&lt;/li&gt;
-&lt;li&gt;Github (Git) (work task manager)&lt;/li&gt;
-&lt;li&gt;Gmail (communication)&lt;/li&gt;
-&lt;li&gt;Google Calendar (meetings)&lt;/li&gt;
-&lt;li&gt;Join.me (screen sharing)&lt;/li&gt;
-&lt;li&gt;Slack (collaboration, company culture)&lt;/li&gt;
+  &lt;li&gt;Skype (meetings)&lt;/li&gt;
+  &lt;li&gt;Wunderlist (personal task manager)&lt;/li&gt;
+  &lt;li&gt;Github (Git) (work task manager)&lt;/li&gt;
+  &lt;li&gt;Gmail (communication)&lt;/li&gt;
+  &lt;li&gt;Google Calendar (meetings)&lt;/li&gt;
+  &lt;li&gt;Join.me (screen sharing)&lt;/li&gt;
+  &lt;li&gt;Slack (collaboration, company culture)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;This set up is not without it’s faults. For example, we could use:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Trello (team task manager)&lt;/li&gt;
-&lt;li&gt;Google Hangouts (combined meetings, screen sharing, collaboration, company culture)&lt;/li&gt;
+  &lt;li&gt;Trello (team task manager)&lt;/li&gt;
+  &lt;li&gt;Google Hangouts (combined meetings, screen sharing, collaboration, company culture)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;On the development team, we leverage Github for team collaboration. We have a team of developers working on this project around the clock so it’s really important that our repos are up-to-date.  We have a repo for the project and within that repo we have a number of different branches.The first branch is master and is the source code that the project is deployed from. The second branch is Dev, which is the branch all team members eventually merge their own separate branches onto.&lt;/p&gt;
@@ -574,20 +205,20 @@
 
 &lt;p&gt;We also have a set up which has automatic testing. As soon as a push is made to Github, our tests are running on Travis. This allows us to see immediately if our changes have broken tests and if they have, we write new tests to cover them. We’ve managed to cover everything, right down to CSS styles, and currently have a 98% code coverage.&lt;/p&gt;
 
-&lt;h3&gt;Time Management&lt;/h3&gt;
+&lt;h3 id=&quot;time-management&quot;&gt;Time Management&lt;/h3&gt;
 
 &lt;p&gt;It’s easy to think that because you’re working from home, it’ll be easier to get distracted and you’ll get less work done. I also thought the same thing but once you’re in the situation and the work &lt;em&gt;has&lt;/em&gt; to be done, you do it. Something that I’ve noticed is that I procrastinate more in the office than I do at home.  I used to work in the law industry and most of my day was spent responding to emails and googling, which are essentially the work-force’s approved form of procrastination.&lt;/p&gt;
 
 &lt;p&gt;I have a couple of small things that really help improve my productivity:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;I use page blockers on my browser so that I cannot get distracted. (Reddit, Facebook, Instagram, Gmail, Twitter)&lt;/li&gt;
-&lt;li&gt;I have a routine that I stick to most days which keeps me on track.&lt;/li&gt;
-&lt;li&gt;I think it’s important to learn how to properly priorities your work - what needs to be done now, what needs to be done today and what should be done tomorrow.&lt;/li&gt;
-&lt;li&gt;It’s been said many times, but Social Media can be one of the biggest distractions we have. I limit my time on social media ruthlessly and am much happier and more productive for it.&lt;/li&gt;
+  &lt;li&gt;I use page blockers on my browser so that I cannot get distracted. (Reddit, Facebook, Instagram, Gmail, Twitter)&lt;/li&gt;
+  &lt;li&gt;I have a routine that I stick to most days which keeps me on track.&lt;/li&gt;
+  &lt;li&gt;I think it’s important to learn how to properly priorities your work - what needs to be done now, what needs to be done today and what should be done tomorrow.&lt;/li&gt;
+  &lt;li&gt;It’s been said many times, but Social Media can be one of the biggest distractions we have. I limit my time on social media ruthlessly and am much happier and more productive for it.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3&gt;Work-Life Balance&lt;/h3&gt;
+&lt;h3 id=&quot;work-life-balance&quot;&gt;Work-Life Balance&lt;/h3&gt;
 
 &lt;p&gt;As much as we have creative jobs and projects to work on, it’s still important to make time to work on things outside of the scope of your job. Whether this is part of an 80/20 rule with the company you work for or you spend your weekends writing a novel, having creative side projects that are started to fuel your passion will ensure that your work doesn’t become unenjoyable. There’s always going to be more work to do and emails to read, so for the sake of your sanity take your leisure time as seriously as you do your work time.&lt;/p&gt;
 
@@ -595,29 +226,14 @@
 
 &lt;p&gt;Finally, whenever you have the chance - disconnect from the world. Switch off your computer, your phone, everything. Go sit outside in the park and watch the clouds float by. Meditate and think about the something outside of your small circle - for me, that’s space - and remind yourself that no matter what’s happening in your life, it too will pass.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 May 2015 00:00:00 +1000</pubDate>
-        <link>http://luchia.com.au/working-at-security-innovation</link>
-        <guid isPermaLink="true">http://luchia.com.au/working-at-security-innovation</guid>
+        <pubDate>Tue, 12 May 2015 02:52:07 +1000</pubDate>
+        <link>http://yourdomain.com/working-at-security-innovation</link>
+        <guid isPermaLink="true">http://yourdomain.com/working-at-security-innovation</guid>
         
         
-      </item>
-    
-      <item>
-        <title>Jekyll FTW</title>
-        <description>&lt;p&gt;I haven’t had a website in a long time, partly due to business and partly due to not wanting to be online as much. My previous websites were built with Rails which, while fun to learn and easy to use once created, were cumbersome, heavy and slow-loading. It was also a pain in the ass to maintain. Enter Jekyll.&lt;/p&gt;
-
-&lt;p&gt;Given that I no longer want to display a portfolio and need 1) a resume and 2) a place to dump my thoughts, Jekyll was the obvious choice. You can find a multitude of tutorials online for building simple, and not so simple, sites with Jekyll. The power of the internet is mighty and infinite.&lt;/p&gt;
-
-&lt;h6&gt;What is Jekyll?&lt;/h6&gt;
-
-&lt;p&gt;It’s a basic static site generator which processes a set of files and generates an output suitable for deployment. Jekyll is a Ruby gem so it’s installed through the command line. For the most part, it&amp;#39;s similar to writing static HTML templates which, after working in Jade and HAML for so long, wasn&amp;#39;t particularly nice to return to. But the convenience is in my ability to maintain it through Markdown and host it via Github pages.&lt;/p&gt;
-
-&lt;p&gt;I whipped this version up in my spare time in the last week and am looking forward to refining it over time, while enjoying the ease of maintaining a website that compiles it’s own content and does automatic deploys for me, for once.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 22 Apr 2015 00:00:00 +1000</pubDate>
-        <link>http://luchia.com.au/jekyll-ftw</link>
-        <guid isPermaLink="true">http://luchia.com.au/jekyll-ftw</guid>
+        <category>life</category>
         
+        <category>work</category>
         
       </item>
     
