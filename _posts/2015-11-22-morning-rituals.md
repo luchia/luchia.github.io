@@ -1,9 +1,7 @@
 ---
-title: "5 Morning Rituals That Make Me Feel Accomplished"
+title: 5 Morning Rituals That Make Me Feel Accomplished
 layout: post
-date:   2015-11-22 16:52:07
 permalink: morning-rituals
-categories: life habits
 ---
 
 There’s already a vast collection of articles written about successful people and their morning habits, but I’m not a celebrity entrepreneur and no one knows what I do every morning.

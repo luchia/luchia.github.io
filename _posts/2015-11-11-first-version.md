@@ -1,8 +1,6 @@
 ---
+title: The First Version
 layout: post
-title:  "The First Version"
-date:   2015-11-11 16:52:07
-categories: melbourne observations
 permalink: the-first-version
 ---
 

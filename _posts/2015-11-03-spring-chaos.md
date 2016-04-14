@@ -1,8 +1,6 @@
 ---
+title: Spring Chaos
 layout: post
-title:  "Spring Chaos"
-date:   2015-11-03 16:52:07
-categories: life observations
 permalink: spring-chaos
 ---
 

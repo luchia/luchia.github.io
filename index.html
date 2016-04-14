@@ -1,42 +1,100 @@
 ---
-layout: main
+layout: default
 ---
 
-{% for post in paginator.posts %}
-  <article class="post">
-    <header>
-      <div class="title">
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <!-- <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p> -->
-      </div>
-      <div class="meta">
-        <time class="published" datetime="{{ post.date | date: "%F" }}">{{ post.date | date: "%B %d, %Y" }}</time>
-        {% for category in post.categories limit:1 %}
-          <a href="#">{{ category }}</a>
-        {% endfor %}
-        <!--
-        <a href="#" class="author"><span class="name">Jane Doe</span><img src="images/avatar.jpg" alt="" /></a>
-        -->
-      </div>
-    </header>
-    {% if post.image %}
-      <a href="{{ post.url }}" class="image featured"><img src="{{post.image}}" alt="" /></a>
+<div class="teaserimage">
+  <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
+    </div>
+</div>
+
+<header class="blog-header">
+    {% if site.logo %}
+      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
     {% endif %}
-    {{ post.excerpt }}
-    <footer>
-      <ul class="actions">
-        <li><a href="{{ post.url }}" class="button big">Continue Reading</a></li>
-      </ul>
-      <ul class="stats">
-        {% for tag in post.tags limit:3 %}
-          <li><a href="#">{{ tag }}</a></li>
-        {% endfor %}
-        <!--
-        <li><a href="#">General</a></li>
-        <li><a href="#" class="icon fa-heart">28</a></li>
-        <li><a href="#" class="icon fa-comment">128</a></li>
-        -->
-      </ul>
-    </footer>
-  </article>
-{% endfor %}
+    <h1 class="blog-title"> </h1>
+    <div class="custom-links">
+      {% for social in site.social %}
+        {% if social.url %}
+            <a class="icon-{{ social.icon }}" href="{{ social.url }}" {% if social.desc %} title="{{ social.desc }}"{% endif %}">
+              <i class="fa fa-{{ social.icon }}"></i>
+            </a>
+            &nbsp;&nbsp;·&nbsp;&nbsp;
+        {% endif %}
+      {% endfor %}
+      <a href="/journal/">Journal</a>
+    </div>
+</header>
+
+<main class="content" role="main">
+  <div class="grid">
+    <div class='col-3-12'>
+      <p class='label'>About</p>
+    </div>
+    <div class='col-9-12'>
+      <p>My name is Lucy Bloomfield and I’m a designer that specialises in user experience and strategy. I’ve worked with some cool companies and agencies, of which the full list can be seen below. I love art, food (cooking it mostly), photography and great fiction.</p>
+      <p>I also write a lot - you can read my thoughts on basically everything in my journal.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class='col-3-12'>
+      <p class='label'>Experience</p>
+    </div>
+    <div class='col-9-12'>
+      <h3 class='company'>Trefiel</h3>
+      <p>Myself and my business partner started a cosmetics company when we realised there was a gap in the market for quality skin care that looks beautiful and doesn’t cost a fortune. This project has involved creating and designing a company from scratch, touching on language, marketing, social media, packaging, brand and websites. A work in progress.</p>
+
+      <p class='skills'>Skills required: strategy, marketing, copywriting, packaging design, branding, web design, front-end development</p>
+
+      <br>
+      <h3 class='company'>Security Innovation</h3>
+      <p>I was Lead Designer for the TEAM Mentor product team for 15 months, working remotely while traveling. In that time, I wore many hats including visual designer, user experience designer, user interface designer, strategy designer and front-end developer. The project was enormous and involved a complete redesign of a product that was originally created in the 90’s and hadn’t been touched since.</p>
+
+      <p>During this time, I also had the opportunity to work on other projects in the company,
+including a client portal that allowed clients to communicate directly with security
+engineers in the company. I created a style guide for TEAM Mentor that is now used
+as a reference point for all employees when creating content and was the guru for all
+things design.</p>
+
+      <p class='skills'>Skills required: user research, wire framing, prototyping, communication (selling concepts to managers), copywriting, visual design, iconography, typography, front-end development</p>
+
+      <br>
+      <h3 class='company'>QA</h3>
+      <p>I wrote a beginners Ruby on Rails course for QA, the leading tech education company in London. This involved research, planning modules, writing, coding and a small amount of design as well as editing and preparing documents for use by the company.</p>
+
+      <p class='skills'>Skills required: research, wire framing, communication, writing, preparing documents for production, front-end development, back-end development</p>
+
+      <br>
+      <h3 class='company'>JosephMark</h3>
+      <p>I worked with JosephMark for an 8 week stint as an intern. My project was a mobile app for a skin care survey run by QUT. This project was started from scratch and involved a lot of user research and wire framing and ending with a complete application that collect data for the university.</p>
+
+      <p class='skills'>Skills required: research, user research, communication (liaising with client), wire framing, prototyping, visual design, iconography, typography, front-end development, back-end development</p>
+
+      <br>
+      <h3 class='company'>ae creative</h3>
+      <p>I worked with ae creative back when I was still attending the University of the Sunshine Coast, where Brian Keayes (the founder) was my tutor for my web design class. This opportunity was incredible and I can’t thank Brian enough. I got to work on a lot of different projects involving web design mostly.</p>
+
+      <p class='skills'>Skills required: communication (liaising with clients), wire framing, prototyping, visual design, front-end development</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class='col-3-12'>
+      <p class='label'>Values</p>
+    </div>
+    <div class='col-9-12'>
+      <p>During my career as a designer, I've spent a lot of time working out who I am and how I want to work. Much like a company needs values, so to do individuals and these are the ones I keep returning to and basing my work off:</p>
+      <ol>
+        <li>Simple is better</li>
+        <li>Creativity solves any problem</li>
+        <li>Feedback is a source of inspiration</li>
+      </ol>
+    </div>
+  </div>
+  <div class="grid">
+    <div class='col-3-12'>
+      <p class='label'>Contact</p>
+    </div>
+    <div class='col-9-12'>
+      <p>Email: hello[at]luchia.com.au</p>
+    </div>
+  </div>
+</main>

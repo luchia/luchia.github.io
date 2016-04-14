@@ -1,8 +1,6 @@
 ---
+title: What's it's like to work at SI
 layout: post
-title:  "What it's like to work remotely"
-date:   2015-05-11 16:52:07
-categories: life work
 permalink: working-at-security-innovation
 ---
 

@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Flexbox 101</title>
+  <meta name="description" content="<p>I gave a talk to Brisbane Web Design meet up about my work with TEAM Mentor recently, specifically building responsive web applications with Flexbox. I have included screenshots and my speaker notes in this post for anyone who may find them interesting.</p>
+" />
+
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@luchiamae" />
+    <meta name="twitter:title" content="Flexbox 101" />
+    <meta name="twitter:image" content="http://luchia.com.au/assets/images/lucy.jpg" />
+    
+    <meta name="twitter:description"  content="I gave a talk to Brisbane Web Design meet up about my work with TEAM Mentor recently, specifically building responsive web applications with Flexbox. I have included screenshots and my speaker note..." />
+    
+  
+  
+  <meta property="og:site_name" content="Lucy Bloomfield" />
+  <meta property="og:title" content="Flexbox 101"/>
+  
+  <meta property="og:description" content="I gave a talk to Brisbane Web Design meet up about my work with TEAM Mentor recently, specifically building responsive web applications with Flexbox. I have included screenshots and my speaker note..." />
+  
+  <meta property="og:image" content="http://luchia.com.au/assets/images/lucy.jpg" />
+  <meta property="og:url" content="http://luchia.com.au/flexbox-101" >
+  <meta property="og:type" content="blog" />
+  <meta property="article:published_time" content="2015-05-21T00:00:00+10:00">
+
+  <link rel="canonical" href="http://luchia.com.au/flexbox-101">
+
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/columns.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+</head>
+
+  <body itemscope itemtype="http://schema.org/Article">
+    <!-- header start -->
+
+
+<!-- header end -->
+
+    <main class="content" role="main">
+      <article class="post">
+        
+        <div class="noarticleimage">
+          <div class="post-meta">
+            <h1 class="post-title">Flexbox 101</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url(/assets/images/lucy.jpg)">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4>
+              on
+              <time datetime="2015-05-21T00:00:00+10:00">21 May 2015</time>
+              <!-- , tagged on <span class="post-tag-">, <a href="/tag/"></a></span> -->
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        
+        <section class="post-content">
+          <div class="post-reading">
+            <span class="post-reading-time"></span> read
+          </div>
+          <a name="topofpage"></a>
+          <p>I gave a talk to Brisbane Web Design meet up about my work with TEAM Mentor recently, specifically building responsive web applications with Flexbox. I have included screenshots and my speaker notes in this post for anyone who may find them interesting.</p>
+
+<p><img src="../images/flexbox/flexbox-intro.png" alt="Flexbox Intro"></p>
+
+<p>Hello, my name is Lucy Bloomfield and I love Flexbox. I’m a designer and I specialise in User Interface, User Experience and Product Design. </p>
+
+<p>I’ve spoken here before about how I got to where I am but long story short, I got sick of doing the usual 9-5 in agencies so I decided that I’d take a hiatus from my career and I moved overseas. Funnily enough, it ended up being far better for my career than staying home.</p>
+
+<p>I’ve worked on a few large scale projects in the last twelve months, specifically TEAM Mentor, which is a knowledge database for developers that teaches them how to program secure applications. My work with this project has involved a huge redesign of the application itself. The first thing to go was the iframes that the application still had from when it was originally built. While searching for an alternative, I found Flexbox - my new favourite tool for building responsive applications.</p>
+
+<p><img src="../images/flexbox/what-is-flexbox.png" alt="What is Flexbox?"></p>
+
+<p>Flexbox is a part of the CSS3 framework. It’s a layout mode which provides an effective way to structure web pages, position items and allocate space between those in items. It’s biggest strength lies in it’s ability to interpret screen space as ratios. It’s perfect for building responsive websites.</p>
+
+<p><img src="../images/flexbox/can-i-use-it.png" alt="Can I use it now?"></p>
+
+<p>It depends.</p>
+
+<p>If you know that you have users who browse your site with IE 10 or earlier, you will need to develop a fallback method. There are some conditions of use, but overall it’s a fairly well-embraced technology. You will need to define flex properties multiple times for the major browser but, for the sake of a few extra lines of code, you can get multi-browser responsiveness at very little cost.</p>
+
+<p><img src="../images/flexbox/how-do-i-use-it.png" alt="How do I use it?"></p>
+
+<p>In a nutshell:</p>
+
+<ul>
+<li>You define a container as a flexible box.</li>
+<li>Any child element within that parent is now a flexible item.</li>
+</ul>
+
+<p>It sounds overly simple and that’s because it is. Flexbox is easy. Let me show you.</p>
+
+<p><img src="../images/flexbox/container-1.png" alt="Container 1"></p>
+
+<p>Defines flex container and let’s all direct children be flex items.</p>
+
+<p><img src="../images/flexbox/container-2.png" alt="Container 2"></p>
+
+<p>Defines main axis of container. Flex box is a single direction layout concept. Think of your flex items as being rows or columns.</p>
+
+<p><img src="../images/flexbox/container-3.png" alt="Container 3"></p>
+
+<p>Default behaviour is try and fit all flex items onto one line. You can change this by telling the container to wrap the items. Direction directly affects this property. Wrap + Direction can be compressed into flex-flow to save extra lines of code. This is recommended.</p>
+
+<p><img src="../images/flexbox/container-4.png" alt="Container 4"></p>
+
+<p>Defines alignment along the main axis for the container. Distributes free space left over when flex items can no longer expand anymore. You can align them to the start, end or centre of the container. You can also add space between or space all around the elements.</p>
+
+<p><img src="../images/flexbox/container-5.png" alt="Container 5"></p>
+
+<p>Similar to justify content. Refers to how flex items are laid out on a cross axis (perpendicular to main axis). The strongest point for this property is the ability to make the flex items stretch to fill the container.</p>
+
+<p><img src="../images/flexbox/container-6.png" alt="Container 6"></p>
+
+<p>Align content will only work if there are multiple lines of items. It tells the group of items where to start.</p>
+
+<p><img src="../images/flexbox/item-1.png" alt="Item 1"></p>
+
+<p>Most exciting aspect is ability to change source order. Default is to order them as they are in the source.</p>
+
+<p><img src="../images/flexbox/item-2.png" alt="Item 2"></p>
+
+<p>Ability to grow if necessary. Unitless value that acts as a proportion. 1:1 and 2:1. Shrink if necessary. Useful for mobile to desktop. Default size before distributing remaining space. Depending on direction of container, need to define width or height. Any unit of measurement or you can use auto.</p>
+
+<p>Grow + Shrink + Basis = Flex. This is recommended.</p>
+
+<p><img src="../images/flexbox/item-3.png" alt="Item 3"></p>
+
+<p>Ability to over-ride the align-items property assigned to container. Float, clear and vertical align will not affect flex items. </p>
+
+<p><img src="../images/flexbox/code-1.png" alt="Code Example 1"></p>
+
+<p><a href="http://bwd.luchia.com.au/perfect-centering.html">Perfect centering</a> with Flexbox.</p>
+
+<p><img src="../images/flexbox/code-2.png" alt="Code Example 2"></p>
+
+<p><a href="http://bwd.luchia.com.au/portfolio.html">Responsive grid</a> with Flexbox.</p>
+
+<p><img src="../images/flexbox/code-3.png" alt="Code Example 3"></p>
+
+<p><a href="http://bwd.luchia.com.au/website.html">Responsive website</a> with Flexbox.</p>
+
+        </section>
+        <footer class="post-footer">
+          <section class="share">
+            
+              
+                <a class="icon-twitter" href="http://twitter.com/share?text=Flexbox+101&amp;url=http://luchia.com.au/flexbox-101"
+                  onclick="window.open(this.href, 'twitter-share', 'width=550,height=255');return false;">
+                <i class="fa fa-twitter"></i><span class="hidden">twitter</span>
+                </a>
+              
+            
+              
+            
+          </section>
+        </footer>
+        <div class="bottom-teaser cf">
+          <div class="isLeft">
+            <h5 class="index-headline featured"><span>Written by</span></h5>
+            <section class="author">
+              <div class="author-image" style="background-image: url(/assets/images/lucy.jpg)">Blog Logo</div>
+              <h4>Lucy Bloomfield</h4>
+              <p class="bio"></p>
+              <hr>
+              <p class="published">Published <time datetime="2015-05-21 00:00">21 May 2015</time></p>
+            </section>
+          </div>
+          
+          <div class="isRight">
+            <h5 class="index-headline featured"><span>Supported by</span></h5>
+            <footer class="site-footer">
+              <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a></section>
+              <a class="subscribe" href="/feed.xml"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+              <div class="inner">
+                <section class="copyright">All content copyright <a href="/">Lucy Bloomfield</a> &copy; 2015<br>All rights reserved.</section>
+              </div>
+            </footer>
+          </div>
+        </div>
+        
+      </article>
+    </main>
+    <div class="bottom-closer">
+      <div class="background-closer-image"  style="background-image: url(/assets/images/top.jpg)">
+        Image
+      </div>
+      <div class="inner">
+        <h1 class="blog-title">Lucy Bloomfield</h1>
+        <h2 class="blog-description">My little piece of the internet</h2>
+        <a href="/" class="btn">Back to Overview</a>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
+<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
+<script>
+(function ($) {
+  "use strict";
+  $(document).ready(function(){
+
+    var $window = $(window),
+    $image = $('.post-image-image, .teaserimage-image');
+    
+      $window.on('scroll', function() {
+        var top = $window.scrollTop();
+
+        if (top < 0 || top > 1500) { return; }
+        $image
+          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+          .css('opacity', 1-Math.max(top/700, 0));
+      });
+      $window.trigger('scroll');
+
+      var height = $('.article-image').height();
+      $('.post-content').css('padding-top', height + 'px');
+
+      $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({ scrollTop: target.offset().top }, 500);
+            return false;
+          }
+        }
+      });
+
+  });
+}(jQuery));
+</script>
+
+
+  </body>
+</html>

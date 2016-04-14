@@ -1,15 +1,59 @@
-# Site settings
-title: Lucy Bloomfield
-email: hello@luchia.com.au
-description: I don't know what I do anymore but I don't really care either. I design things, I cook and eat, I photograph and write about the places that I'm in.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://luchia.com.au" # the base hostname & protocol for your site
-
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+  
+# Site settings
+title: "Lucy Bloomfield"
+description: "My little piece of the internet"
 
-paginate: 4
+email: hello@luchia.com.au
+#blog logo
+logo: "/assets/images/lucy.jpg"
+# blog cover
+cover: "/assets/images/top.jpg"
 
-author: Lucy
+name: 'Lucy Bloomfield'
+author: 'Lucy Bloomfield'
+author_image: "/assets/images/lucy.jpg"
 
-gems: [jekyll-paginate]
+paginate:	10
+
+url: "http://luchia.com.au" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@luchiamae'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/luchiamae
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/luchiamae
+    desc:	Github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
