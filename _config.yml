@@ -2,7 +2,7 @@
 markdown: redcarpet
 highlighter: pygments
 gems:
-  - jemoji
+  - jekyll-paginate
   
 # Site settings
 title: "Lucy Bloomfield"
@@ -45,7 +45,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/luchiamae
+    url:	https://github.com/luchia
     desc:	Github
     share_url:
     share_title:
