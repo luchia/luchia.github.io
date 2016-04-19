@@ -6,7 +6,7 @@ permalink: spring-chaos
 
 Spring is my favourite time of the year. The sun starts to burn a little, the days warm up yet the nights are still cool. I sometimes still get a rainy day to lay in bed on the weekends (or week days), but there’s also the beautiful clear days that should only be spent racing through the mountains on a motorbike.
 
-Although I’ve been writing regularly for myself, I haven’t touched this blog in months, let alone had the desire to craft a well-written post. Although there have been posts created in 2015, reading them back I realise they lack the special spark that makes this corner of the internet, mine. 
+Although I’ve been writing regularly for myself, I haven’t touched this blog in months, let alone had the desire to craft a well-written post. Although there have been posts created in 2015, reading them back I realise they lack the special spark that makes this corner of the internet, mine.
 
 So where did Lucy go? Simply put, I was too busy living my life to write about and document it. This year I’ve spoken at multiple conferences, I lived in the Middle East (amazing place, would go back there in a heartbeat), learnt to ride a motorbike, learnt how to pole dance, had surgery, learnt how to cook (properly) and moved to a new city. I’ve explored my identity and the ways in which I express myself, my communication channels, my relationships and my flaws. I’ve even managed, although I still struggle with it, to remove myself entirely from social media, excluding business accounts.
 

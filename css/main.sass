@@ -39,6 +39,22 @@ body
   -o-font-feature-settings: "liga", "dlig"
   font-feature-settings: "liga", "dlig"
 
+  li
+    padding: 0
+    font-weight: 400
+    font-style: normal
+    font-size: 0.95em
+    line-height: 20px
+    margin-bottom: 12px
+    padding-top: 2px
+    font-family: $font-sans
+
+  a
+    color: #007450
+
+    &:hover
+      color: #5CB69A
+
 .logo-readium
   position: fixed
   left: 10px
@@ -380,6 +396,7 @@ body
       text-decoration: underline
     img
       max-width: 100%
+      width: 100%
       margin: 0 auto
     figure
       margin: 0
@@ -421,11 +438,12 @@ body
       padding: 0
       font-weight: 400
       font-style: normal
-      font-size: 23px
-      line-height: 30px
+      font-size: 0.95em
+      line-height: 20px
       margin-left: 30px
       margin-bottom: 12px
       padding-top: 2px
+      font-family: $font-sans
       p
         padding: 0 0 golden-ratio(1rem,  1)
     ol li
@@ -573,7 +591,7 @@ body
       text-decoration: none
       cursor: pointer
       height: 44px
-      background: #57ad68
+      background: #ff8871
       color: #fff
       vertical-align: middle
       box-sizing: border-box
