@@ -1,5 +1,4 @@
 # Build settings
-highlighter: pygments
 gems:
   - jekyll-paginate
   
