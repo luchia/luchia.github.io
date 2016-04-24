@@ -4,7 +4,7 @@ layout: post
 permalink: hackathon-customer-admin
 ---
 
-This is a continuation of my work with Security Innovation on the CMD + CTRL hackathon project. The first part in this series can be seen [here](http://luchia.com.au/hackathon-participant). In this case study, you'll see how I developed the Customer Admin user for this application.
+This is a continuation of my work with Security Innovation on the CMD + CTRL hackathon project. In this case study, you'll see how I developed the Customer Admin user for this application.
 
 To understand where this project began, let's take a look at some screenshots of the existing design for this user -
 
