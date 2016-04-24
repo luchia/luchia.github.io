@@ -5,13 +5,13 @@
     <description>My little piece of the internet</description>
     <link>http://luchia.com.au/</link>
     <atom:link href="http://luchia.com.au/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 24 Apr 2016 16:30:20 +1000</pubDate>
-    <lastBuildDate>Sun, 24 Apr 2016 16:30:20 +1000</lastBuildDate>
+    <pubDate>Sun, 24 Apr 2016 16:32:28 +1000</pubDate>
+    <lastBuildDate>Sun, 24 Apr 2016 16:32:28 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Study of the CMD + CTRL customer administrator</title>
-        <description>&lt;p&gt;This is a continuation of my work with Security Innovation on the CMD + CTRL hackathon project. The first part in this series can be seen &lt;a href=&quot;http://luchia.com.au/hackathon-participant&quot;&gt;here&lt;/a&gt;. In this case study, you’ll see how I developed the Customer Admin user for this application.&lt;/p&gt;
+        <description>&lt;p&gt;This is a continuation of my work with Security Innovation on the CMD + CTRL hackathon project. In this case study, you’ll see how I developed the Customer Admin user for this application.&lt;/p&gt;
 
 &lt;p&gt;To understand where this project began, let’s take a look at some screenshots of the existing design for this user -&lt;/p&gt;
 
