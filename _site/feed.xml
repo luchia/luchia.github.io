@@ -5,13 +5,70 @@
     <description>My little piece of the internet</description>
     <link>http://luchia.com.au/</link>
     <atom:link href="http://luchia.com.au/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 23 Apr 2016 21:30:57 +1000</pubDate>
-    <lastBuildDate>Sat, 23 Apr 2016 21:30:57 +1000</lastBuildDate>
+    <pubDate>Sun, 24 Apr 2016 16:30:20 +1000</pubDate>
+    <lastBuildDate>Sun, 24 Apr 2016 16:30:20 +1000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Study of the Cmd + Ctrl participant user</title>
-        <description>&lt;p&gt;One of the things that I love about working with Security Innovation is the variety and depth of projects that I work on. This one was no different. The Cmd + Ctrl platform is a scoreboard for a ‘hackathon’-styled product that Security Innovation offers.&lt;/p&gt;
+        <title>Study of the CMD + CTRL customer administrator</title>
+        <description>&lt;p&gt;This is a continuation of my work with Security Innovation on the CMD + CTRL hackathon project. The first part in this series can be seen &lt;a href=&quot;http://luchia.com.au/hackathon-participant&quot;&gt;here&lt;/a&gt;. In this case study, you’ll see how I developed the Customer Admin user for this application.&lt;/p&gt;
+
+&lt;p&gt;To understand where this project began, let’s take a look at some screenshots of the existing design for this user -&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/manage-instances.png&quot; alt=&quot;Even though the pages are simple and from a usability standpoint, clear in the required action, the design left a lot to be desired&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/navigation.png&quot; alt=&quot;The navigation had a huge amount of options available to the user, many of which could be grouped into related tasks to form an easy to use interface&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/register-user.png&quot; alt=&quot;One example of a user task that could have been grouped with others&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/bulk-register.png&quot; alt=&quot;Another example of a user task that oculd have been grouped with others&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As always, I love to start a project with a clear journey for the user. This user was, in particular, very simple in terms of the task needed to be completed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/user-workflow.png&quot; alt=&quot;The customer admin user workflow was simple and made it easy to create a usable design because of it&#39;s simplicity&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In comparison to the &lt;a href=&quot;http://luchia.com.au/hackathon-participant&quot;&gt;participant user&lt;/a&gt;, this user had a much simpler workflow. In fact, a lot of the bases were covered in terms of design, as I had already hashed out a lot of the structural layout of the application for the participant user. It was simply a matter of organising the tasks in the existing application with consistency to the first user.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the time allowed for this project meant that only one portion (the hackathon participant) could be completed fully. Below is as much as I could get done before my time with the company was finished -&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/launch-pad.png&quot; alt=&quot;The customer admin launch pad - easy access for the things they most need to control&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The user logs in and is immediately greeted with the event launchpad. My reasoning for this relates to the nature of the use of the application. The CMD + CTRL application is used in hackathon instances, where a customer admin will manage players as they compete in an event. While they will ocassionally manage users, the weight of their role specifically revolves around the event they are managing.&lt;/p&gt;
+
+&lt;p&gt;From the launch pad, the admin is able to edit any instances of the event. Ideally, I would have liked to remove the repetitive buttons and create a similar workflow as what I had on the original design for the hackathon participant - selecting the instance and controlling it with a row of buttons at the top-right of the table.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/launch-pad-edit.png&quot; alt=&quot;Editing the event&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Within the instance editor, the user is able to adjust settings for the instance and is able to view what sites are enabled and the event schedule information, all of which are controlled by the super admin. I would have liked to have spent more time consolidating this page design - the two columns to a full-width table below is inconsistent and not as user friendly as I would have liked. I also would have liked to have made it clearer that the event name was an input and it was possible to edit it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/manage-instances-2.png&quot; alt=&quot;Managing instances of an event - controlling who can use it and when&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From within the view, you’re able to do a few things for the events. Each event will have a number of instances, where it’s running on one or more machines. The customer admin is able to launch all instances (a requirement to start an event), terminate all of them (thereby kicking everyone off) or delete an instance (for management purposes).&lt;/p&gt;
+
+&lt;p&gt;I particularly like this layout as it goes back to my original participant user design and it’s clear and succinct. With a possibility of having hundreds of instances, having an edit/delete/launch button for each instance is unneccessary. If I had it my way, I would have implemented this on all of the pages (which you will see very soon).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/manage-players.png&quot; alt=&quot;Managing players is no longer an exhaustive series of clicks - simple and easy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The other actions the customer admin should be able to complete relate to managing users. Similarly to the launch pad, there are excessive links on this page that could have been simplified. I would have liked to had a row of buttons on the top-right hand side of the table, where each user is selectable and able to be managed by those buttons.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/customer-admin-user/add-user.png&quot; alt=&quot;Adding a user&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This page was put together very quickly and I don’t feel as if it fits the application. If I had more time to complete this project, I would have created a left-hand navigation, similar to the launch pad, where I could manage everything no matter what page I’m on.&lt;/p&gt;
+
+&lt;p&gt;The other thing that I like about my work on this user is the navigation. The navigation &lt;em&gt;very&lt;/em&gt; simple but it’s also extremely clear about what the tasks a customer admin can complete. In this respect, I think the application for the customer admin is incredibly simple to use and needs no onboarding or tutorial to get users started with the application. I’m very proud of this.&lt;/p&gt;
+
+&lt;p&gt;Overall, this particular user didn’t get a lot of time allocated to it with this project as there was a 4 week sprint for the participant user and not a lot of time left over to complete this user. If I were to come back to this project (hopefully in the near future), I’d love to spend a bit more time on this user and make this part of the application more polished. As you can see from my case study, there is quite a lot I would still change and develop, but overall I am very happy with the simplicity and usability of this interface.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Apr 2016 00:00:00 +1000</pubDate>
+        <link>http://luchia.com.au/hackathon-customer-admin</link>
+        <guid isPermaLink="true">http://luchia.com.au/hackathon-customer-admin</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Study of the CMD + CTRL participant user</title>
+        <description>&lt;p&gt;One of the things that I love about working with Security Innovation is the variety and depth of projects that I work on. This one was no different. The CMD + CTRL platform is a scoreboard for a ‘hackathon’-styled product that Security Innovation offers.&lt;/p&gt;
 
 &lt;p&gt;They’d already built and tested an MVP, but they knew that the design and usability was letting them down. Let’s take a look at why -&lt;/p&gt;
 
@@ -56,6 +113,7 @@
 
 &lt;p&gt;Now, although sliders aren’t fantastic in regards to usability usually, I think in terms of the audience (technically educated users), a slider is fine. As well as this, most users would choose to skip the on-boarding, preferring to jump right in and initiate themselves. As a developer, I know that’s what I do and having conducted user research on many other professional developers, I’ve seen the same thing over and over. The slider is there if you want it, but the application is easy to use on it’s own.&lt;/p&gt;
 
+&lt;p&gt;As I look at this now, I see a lot of inconsistencies and room for improvement. However, with a two week sprint for the design and a two week sprint for the dev, what I came up with in the time given is a great MVP solution. Going forward, I recommend that there is more time spent creating a more consistent application - there is a lot of room for improvement with the sizes of the icons and some of the layouts. However, overall I am very satisfied with where this project finished for a first round.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Apr 2016 00:00:00 +1000</pubDate>
         <link>http://luchia.com.au/hackathon-participant</link>

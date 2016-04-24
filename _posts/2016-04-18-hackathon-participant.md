@@ -1,10 +1,10 @@
 ---
-title: Study of the Cmd + Ctrl participant user
+title: Study of the CMD + CTRL participant user
 layout: post
 permalink: hackathon-participant
 ---
 
-One of the things that I love about working with Security Innovation is the variety and depth of projects that I work on. This one was no different. The Cmd + Ctrl platform is a scoreboard for a ‘hackathon’-styled product that Security Innovation offers.
+One of the things that I love about working with Security Innovation is the variety and depth of projects that I work on. This one was no different. The CMD + CTRL platform is a scoreboard for a ‘hackathon’-styled product that Security Innovation offers.
 
 They’d already built and tested an MVP, but they knew that the design and usability was letting them down. Let’s take a look at why -
 
@@ -47,3 +47,4 @@ We needed to re-confirm the visual cues in the navigation, so I designed a slide
 
 Now, although sliders aren’t fantastic in regards to usability usually, I think in terms of the audience (technically educated users), a slider is fine. As well as this, most users would choose to skip the on-boarding, preferring to jump right in and initiate themselves. As a developer, I know that’s what I do and having conducted user research on many other professional developers, I’ve seen the same thing over and over. The slider is there if you want it, but the application is easy to use on it’s own.
 
+As I look at this now, I see a lot of inconsistencies and room for improvement. However, with a two week sprint for the design and a two week sprint for the dev, what I came up with in the time given is a great MVP solution. Going forward, I recommend that there is more time spent creating a more consistent application - there is a lot of room for improvement with the sizes of the icons and some of the layouts. However, overall I am very satisfied with where this project finished for a first round.
