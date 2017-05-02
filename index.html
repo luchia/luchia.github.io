@@ -21,97 +21,48 @@ layout: default
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
+      
     </div>
 </header>
 
 <main class="content" role="main">
-  <div class="grid">
-    <div class='col-3-12'>
-      <p class='label'>About</p>
+  <section>
+    <h1>Hey, I'm Lucy :)</h1>
+    <p>I’m the Co-Founder of Trefiel - think skin care meets self-care - which I started with my partner, Michael Tremeer, when we saw the opportunity to spoil and pamper women everywhere (and teach them how to love themselves too).</p>
+
+    <p>I think we have the <a href='http://www.trefiel.com/' target='_blank'>best face masks ever</a> but I have to admit, I’m <strong>very</strong> biased.</p>
+
+    <br>
+    <h2>If you're looking for</h2>
+    <ul>
+      <li>Case studies on what has and hasn't worked while growing my ecommerce business</li>
+      <li>Detailed breakdowns of processes and templates for structuring a company (with a special focus on it being run remotely)</li>
+      <li>Templates for marketing and operational structres that I use on a day-to-day basis</li>
+      <li>Plus basically everything in between because it's my blog and I'll do what I want</li>
+    </ul>
+    <p>Then this is the place for you.</p>
+
+    <br>
+    <h3>Let's jump in :)</h3>
+    <div class="cf frame">
+      {% for post in site.posts %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+          <div class="article-item">
+            <header class="post-header">
+              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+            </header>
+            <section class="post-excerpt" itemprop="description">
+              <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+            </section>
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+<!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
+            </div>
+          </div>
+        </article>
+      {% endfor %}
     </div>
-    <div class='col-9-12'>
-      <p>I'm Lucy Bloomfield and I'm a designer that specialises in user experience and strategy. You'll find me re-organising things, designing smoother workflows and giving structure to everything (especially my pantry). I've worked with some cool companies and even started my own.</p>
-      <p>In my downtime you'll find me learning - currently studying Physics of the Universe and Astrobiology. I make a mean paella and consider myself a vegan chocolate connoisseur.</p>
-
-    </div>
-  </div>
-  <div class="grid">
-    <div class='col-3-12'>
-      <p class='label'>Experience</p>
-    </div>
-    <div class='col-9-12'>
-      <h3 class='company'>Personal Project - The Cats In My Life</h3>
-      <p>Cats have always been one of my favourite animals. Partly because they’ve retained some of their wild animalistic traits and also for their beauty and athleticism.</p>
-
-      <p>In 2016, I became a foster carer for one of the many animal rescue associations in Victoria and I decided to start documenting the cats that walk into my life. It seemed an incredible way to mix my passion for photography and writing to document that lessons they offered me.</p>
-
-      <ul>
-        <li><a href='http://luchia.com.au/quade'>Quade</a></li>
-      </ul>
-
-      <br>
-      <h3 class='company'>Trefiel</h3>
-      <p>I am one of the Co-Founders of Trefiel, a skin care company born out of frustration with the current skin care market. Our competitors have a lot to answer for - there's thousands of products out on the market and a lot of them don't work or are hugely expensive. We're changing that.</p>
-
-      <p>Since starting in October 2015, Trefiel has exploded on social media and into retail stores around the country. Our wildly popular Hydromasks go from strength-to-strength, with plans for more formulas to be launched in June 2016.</p>
-
-      <p>My role in Trefiel is very broad - if I was a title person, it'd be a mix between CEO and COO. I lead the strategy for the company, determining placement in the industry and future moves to continue growth. I lead the marketing efforts, co-ordinating photoshoots, copywriting, content strategy and social media. I'm also directly responsible for customer service and the shipment of products. As well, I manage our relationships with other businesses and develop new partnerships as Trefiel continues to grow.</p>
-
-      <p>Case Studies for my work on Trefiel:</p>
-      <ul>
-        <li><a href='http://luchia.com.au/trefiel-social-media'>Social Media Strategy</a></li>
-        <li><a href='http://luchia.com.au/trefiel-service-design'>Service Design</a></li>
-      </ul>
-
-      <p class='skills'>Skills required: strategy, company design, user experience design, user interface design, customer service design, sales, procedure design, structuring company, information architecture, marketing, social media, photography</p>
-
-      <br>
-      <h3 class='company'>Security Innovation</h3>
-      <p>I have been the lead designer for Security Innovations digital products since June 2014. This role has seen me wear many hats - visual designer, user experience designer, user interface designer, strategy designer and front-end developer.</p>
-
-      <p>My key work with this company has been re-designing Team Mentor, designing a customer portal and hackathon application. I was also directly responsible for TEAM Mentors style guide, which is now used as a reference point for all employees when creating content within the application.</p>
-
-      <p>Case studies for my work with Security Innovation:</p>
-
-      <ul>
-        <li><a href='http://luchia.com.au/hackathon-participant'>Hackathon Participant User</a></li>
-        <li><a href='http://luchia.com.au/hackathon-customer-admin'>Hackathon Customer Admin User</a></li>
-      </ul>
-
-      <p class='skills'>Skills required: user interface design, user experience design, icon design, copywriting, front-end development (css & html)</p>
-
-      <br>
-      <h3 class='company'>QA</h3>
-      <p>I wrote a beginners Ruby on Rails course for QA, the leading tech education company in London. This involved research, planning modules, writing, coding and a small amount of design as well as editing and preparing documents for use by the company.</p>
-
-      <p class='skills'>Skills required: research, wire framing, course writing, document preparation, front-end development, back-end development</p>
-
-      <br>
-      <h3 class='company'>JosephMark</h3>
-      <p>I worked with JosephMark as an intern for 8 weeks in 2013. My project was a mobile app for a skin care survey run by the Queensland University of Technology.</p>
-
-      <p class='skills'>Skills required: research, user research, communication (liaising with client), wire framing, prototyping, visual design, iconography, typography, front-end development, back-end development</p>
-
-      <br>
-      <h3 class='company'>ae creative</h3>
-      <p>I worked with ae creative back when I was attending the University of the Sunshine Coast, where Brian Keayes (the founder) was my tutor. I worked on a number of different projects involving web design and front-end development</p>
-
-      <p class='skills'>Skills required: communication (liaising with clients), wire framing, prototyping, visual design, front-end development</p>
-    </div>
-  </div>
-  <div class="grid">
-    <div class='col-3-12'>
-      <p class='label'>Values</p>
-    </div>
-    <div class='col-9-12'>
-      <p>Much like a company needs values, so too do individuals and these are the ones I keep returning to and basing my work off:</p>
-      <ol>
-        <li>Simple is better</li>
-        <li>Creativite thinking can solve any problem</li>
-        <li>Feedback is a form of inspiration</li>
-      </ol>
-    </div>
-  </div>
+  </section>
   <div class="grid">
     <div class='col-3-12'>
       <p class='label'>Contact</p>
