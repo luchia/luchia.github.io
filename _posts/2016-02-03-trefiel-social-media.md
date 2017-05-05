@@ -1,5 +1,5 @@
 ---
-title: Trefiel's Social Media Strategy
+title: Instagram Overview: October 2015 - February 2016
 layout: post
 permalink: trefiel-social-media
 ---

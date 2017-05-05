@@ -1,5 +1,5 @@
 ---
-title: Designing Trefiel's Subscription Service
+title: Why we created a subscription service
 layout: post
 permalink: trefiel-service-design
 ---
