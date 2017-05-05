@@ -1,5 +1,5 @@
 ---
-title: Instagram Overview: October 2015 - February 2016
+title: Instagram Overview - February 2016
 layout: post
 permalink: trefiel-social-media
 ---
