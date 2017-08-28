@@ -3,10 +3,10 @@
   <channel>
     <title>Lucy Bloomfield</title>
     <description>My little piece of the internet</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 28 Aug 2017 22:55:13 +0800</pubDate>
-    <lastBuildDate>Mon, 28 Aug 2017 22:55:13 +0800</lastBuildDate>
+    <link>http://luchia.com.au/</link>
+    <atom:link href="http://luchia.com.au/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 28 Aug 2017 23:02:32 +0800</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2017 23:02:32 +0800</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -32,8 +32,8 @@
 &lt;p&gt;There’s always room for improvement, which is why this year we’ll be improving packaging to provide an even more luxurious experience for our customers. At the moment, when the Pamper Kit is packaged it looks beautiful, but by the time it’s handled by the postage delivery network, it arrives at their homes looking a little worse for weather. We want to provide the ultimate experience and we’ll do this by continuing to work on our design of the service.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/trefiel-service-design</link>
-        <guid isPermaLink="true">http://localhost:4000/trefiel-service-design</guid>
+        <link>http://luchia.com.au/trefiel-service-design</link>
+        <guid isPermaLink="true">http://luchia.com.au/trefiel-service-design</guid>
         
         
       </item>
@@ -105,8 +105,8 @@
 &lt;p&gt;That’s where we’re at now, but I have hundreds of ideas for how to continue improving our social media efforts and our marketing in general. As we gain more experience, I see the value of providing incredible content more and more. It’s not easy to start a business and it’s certainly not easy to market a business, especially when you’re playing the same game as everyone else. Differentiating ourselves by letting our personality shine through our content has lead to MASSIVE growth and engagement, something which I’m really proud of having been the lead on all of our marketing efforts.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/trefiel-social-media</link>
-        <guid isPermaLink="true">http://localhost:4000/trefiel-social-media</guid>
+        <link>http://luchia.com.au/trefiel-social-media</link>
+        <guid isPermaLink="true">http://luchia.com.au/trefiel-social-media</guid>
         
         
       </item>

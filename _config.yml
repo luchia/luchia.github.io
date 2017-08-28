@@ -9,6 +9,7 @@ description: "My little piece of the internet"
 email: hello@luchia.com.au
 #blog logo
 logo: "/assets/images/lucy.jpg"
+
 # blog cover
 cover: "/assets/images/top.jpg"
 
@@ -42,12 +43,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	instagram
-    url:	https://instagram.com/lucy_bloomfield
-    desc:	Instagram
-    share_url:
-    share_title:
-    share_link:
+#  - icon:	instagram
+#    url:	https://instagram.com/lucy_bloomfield
+#    desc:	Instagram
+#    share_url:
+#    share_title:
+#    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
