@@ -28,12 +28,12 @@ twitter_handle: '@luchiamae'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/luchiamae
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+#  - icon:	twitter
+#    url:	https://twitter.com/luchiamae
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -42,9 +42,9 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/luchia
-    desc:	Github
+  - icon:	instagram
+    url:	https://instagram.com/lucy_bloomfield
+    desc:	Instagram
     share_url:
     share_title:
     share_link:
