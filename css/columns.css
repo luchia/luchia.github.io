@@ -35,6 +35,15 @@ p {
 	font-size: 16px;
 }
 
+.content article {
+	background: #fafafa;
+    padding: 30px 40px;
+    margin: 35px 0;
+}
+.content article a {
+	text-decoration: none;
+}
+
 *, *:after, *:before {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
