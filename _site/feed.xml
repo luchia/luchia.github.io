@@ -3,11 +3,56 @@
   <channel>
     <title>Lucy Bloomfield</title>
     <description>My little piece of the internet</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Nov 2017 15:12:08 +0100</pubDate>
-    <lastBuildDate>Sun, 05 Nov 2017 15:12:08 +0100</lastBuildDate>
+    <link>http://luchia.com.au/</link>
+    <atom:link href="http://luchia.com.au/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Nov 2017 10:15:26 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2017 10:15:26 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>The hardest way to drink coffee</title>
+        <description>&lt;p&gt;I’m running an experiment on myself at the moment…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How long can I sit, do nothing and be happy in the moment?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’ve taken to doing this coffee shops recently as it’s a wonderful way to people watch without being watched by people. That’s because most people are on their phones or working on their laptops. Lured by the pull of the ever-near phone, we waste precious moments scrolling on devices that pull our attention inward and downward, all while missing what’s waiting to pull us upward and outward.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/the-coffee-challenge.JPG&quot; alt=&quot;I solemnly swear this post was written after my coffee was enjoyed&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was and still am like many of these people. When I’m faced with a spare moment, I find myself reaching for my phone out of comfort.  “I have no time” I have cried, all while spending countless hours on apps which don’t bring me a sense of wonder, joy or accomplishment. Perhaps you too find that there are no spare pockets of time in life and perhaps you too have started to feel as if life is just one endless scroll of ambiguity and nothingness. I have both a solution and a challenge for you.&lt;/p&gt;
+
+&lt;h3 id=&quot;its-called-the-coffee-challenge&quot;&gt;It’s called The Coffee Challenge.&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Go to your favourite cafe, sit with a your favourite coffee and sit without your phone, laptop or any stimulation until your coffee is finished.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now you may be a speedy drinker by nature or by practice, but this challenge is designed to slow every aspect of your life down and give you a feeling of timelessness. Of pure enjoyment. And of appreciation for what is happening in the world around you today.&lt;/p&gt;
+
+&lt;p&gt;When our attention is buried in our phone, we miss moments like -&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The couple who just walked in the coffee shop and gazed lovingly at one another for a split second.&lt;/li&gt;
+  &lt;li&gt;The two women doing a crossword together at a window.&lt;/li&gt;
+  &lt;li&gt;The man who has walked past the shop window a few times, seemingly lost.&lt;/li&gt;
+  &lt;li&gt;The little boy arguing with his mum because he doesn’t want to wear his coat.&lt;/li&gt;
+  &lt;li&gt;The couple taking a selfie of themselves enjoying a morning coffee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There is a beauty in the normality of everyday life, people going about their days as if it were nothing special - and yet it is and it isn’t. All of these moments are inconsequential and yet fascinating to observe. I am only granted the privilege to see these people, as they are, because I decided to put away my phone and note what I could see around me.&lt;/p&gt;
+
+&lt;p&gt;Can I entice you to try The Coffee Challenge for yourself? To enrich your life with ten minutes of pleasure? To slow down time and appreciate finer details that would otherwise pass unnoticed? If your answer is a yes, leave me a comment with your favourite coffee below and what you noticed while you enjoyed it. I can’t wait to hear all about it.&lt;/p&gt;
+
+&lt;p&gt;PS. My favourite coffee is a flat white with almond milk and this blog post was centered around what I saw this morning.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Nov 2017 00:00:00 +0100</pubDate>
+        <link>http://luchia.com.au/the-coffee-challenge</link>
+        <guid isPermaLink="true">http://luchia.com.au/the-coffee-challenge</guid>
+        
+        
+      </item>
     
       <item>
         <title>I'm starting fresh and I'm terrified</title>
@@ -32,8 +77,8 @@
 &lt;p&gt;I know nothing about this industry nor what it will take to change the world. I want to make a difference though and I will find an idea, a Co-Founder or a company to put my skills, enthusiasm and experience to work for.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/climate-change-newbie</link>
-        <guid isPermaLink="true">http://localhost:4000/climate-change-newbie</guid>
+        <link>http://luchia.com.au/climate-change-newbie</link>
+        <guid isPermaLink="true">http://luchia.com.au/climate-change-newbie</guid>
         
         
       </item>
