@@ -3,10 +3,10 @@
   <channel>
     <title>Lucy Bloomfield</title>
     <description>My little piece of the internet</description>
-    <link>http://luchia.com.au/</link>
-    <atom:link href="http://luchia.com.au/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Nov 2017 10:15:26 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2017 10:15:26 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Nov 2017 10:16:58 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2017 10:16:58 +0100</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -48,8 +48,8 @@
 &lt;p&gt;PS. My favourite coffee is a flat white with almond milk and this blog post was centered around what I saw this morning.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://luchia.com.au/the-coffee-challenge</link>
-        <guid isPermaLink="true">http://luchia.com.au/the-coffee-challenge</guid>
+        <link>http://localhost:4000/the-coffee-challenge</link>
+        <guid isPermaLink="true">http://localhost:4000/the-coffee-challenge</guid>
         
         
       </item>
@@ -77,8 +77,8 @@
 &lt;p&gt;I know nothing about this industry nor what it will take to change the world. I want to make a difference though and I will find an idea, a Co-Founder or a company to put my skills, enthusiasm and experience to work for.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Nov 2017 00:00:00 +0100</pubDate>
-        <link>http://luchia.com.au/climate-change-newbie</link>
-        <guid isPermaLink="true">http://luchia.com.au/climate-change-newbie</guid>
+        <link>http://localhost:4000/climate-change-newbie</link>
+        <guid isPermaLink="true">http://localhost:4000/climate-change-newbie</guid>
         
         
       </item>
